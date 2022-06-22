@@ -1,21 +1,21 @@
-## Structure Webpages with HTML Reading Notes  
-### Defining HTML
+## Design Webpages with CSS Reading Notes
 
-* Excerpts from [(HTML on Wikipedia)](https://en.wikipedia.org/wiki/HTML): 
+### Defining CSS
 
-  * *The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.* 
+* Excerpts from [(CSS on Wikipedia)](https://en.wikipedia.org/wiki/CSS): 
 
-  * *Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.*
+  * *Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.[2]*
 
-### Basic HTML Coding Sampling
+  * *CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts.*
 
-* HTML markup consists of several key components, including those called tags (and their attributes), character-based data types, character references and entity references.
-* HTML tags most commonly come in pairs like < h1 > and < /h1 >, although some, like images, are unpaired, e.g. < img >.
-* The first tag in such a pair is the start tag, and the second is the end tag (they are also called opening and closing tags).
-* HTML documents imply a structure of nested HTML **elements.** These are indicated in the document by HTML tags, enclosed in angle brackets thus: < p >.
-  * In the simple, general case, the extent of an element is indicated by a pair of tags: a "start tag" < p > and "end tag" < /p >. The text content of the element, if any, is placed between these tags.
-  * The start tag may also include element's attributes within the tag. These indicate other information, such as identifiers for sections within the document, identifiers used to bind style information to the presentation of the document, and for some tags such as the < img > used to embed images, the reference to the image resource in the format like this: < img src="example.com/example.jpg" >
+### Basic CSS Overview
 
-### HTML online resource
+* Whereas HTML provides a website with structure, CSS...
+* Internal, external, inline
+* css style sheet and how linked
+* Selectors
+* Examples
 
-* For a simple guide to coding in HTML, here is a solid [HTML cheat sheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf) from Stanford.
+### CSS online resource
+
+* For a simple guide to coding in CSS, here is a solid [CSS cheat sheet](https://adam-marsden.co.uk/css-cheat-sheet).

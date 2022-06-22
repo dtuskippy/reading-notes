@@ -3,6 +3,7 @@
 2. Read-02: [The Coder's Computer](https://dtuskippy.github.io/reading-notes/read-02-the-coders-computer)
 3. Read-03: [Revisions and the Cloud](https://dtuskippy.github.io/reading-notes/read-03-revisions-and-the-cloud)
 4. Read-04: [Structure Webpages with HTML](https://dtuskippy.github.io/reading-notes/read-04-structure-webpages-with-html)
+5. Read-05: [Design Webpages with CSS](https://dtuskippy.github.io/reading-notes/read-05-design-webpages-with-css)
 
 ## Personal Background / Intro
 ### *Hi there!*  ✌️
