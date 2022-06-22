@@ -4,7 +4,7 @@
 
 * Excerpts from [(CSS on Wikipedia)](https://en.wikipedia.org/wiki/CSS): 
 
-  * *Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.[2]*
+  * *Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.*
   * *CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts.*
 
 ### Basic CSS Overview
@@ -17,7 +17,7 @@
   * ID selector: #idname
   * Attribute selector: [attr=value]
 * The most standard way of coding CSS is to do so 'externally', by using a separate stylesheet with a css extension; the *stylesheet.css* is linked to the relevant HTML file
-* Example code to change background color of a footer via *element selection* 
+* Example code to change the background color of a footer via an *element selection* 
   * footer { 
       background-color: red; 
     }
