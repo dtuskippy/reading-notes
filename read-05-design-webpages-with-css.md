@@ -10,11 +10,18 @@
 
 ### Basic CSS Overview
 
-* Whereas HTML provides a website with structure, CSS...
-* Internal, external, inline
-* css style sheet and how linked
-* Selectors
-* Examples
+* Whereas HTML is used to create the structure and actual content of the page (such as written text), CSS is responsible for the design or style of the website, including the layout, visual effects and background color.
+*  CSS uses *selectors* to select items in html to format, e.g.
+  * Universal selector *
+  * Type selector elementname
+  * Class selector .classname
+  * ID selector #idname
+  * Attribute selector [attr=value]
+* The most standard way of coding CSS is to do so 'externally', by a separate stylesheet with css extension; the *stylesheet.css* is linked to the relevant HTML file
+* Example code to change background color of a footer via *element selection* 
+  * footer { 
+      background-color: red; 
+    }
 
 ### CSS online resource
 
