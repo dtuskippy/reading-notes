@@ -1,4 +1,4 @@
-## Design Webpages with CSS Reading Notes
+## Dynamic Webpages with JavaScript Reading Notes
 
 ### Defining JavaScript
 
