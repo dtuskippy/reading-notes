@@ -11,7 +11,7 @@
   
 ### Basic JavaScript Overview
 
-* Whereas HTML is used to create the structure and actual content of a web page (such as written text), CSS is responsible for the design or style of the website, including the layout, visual effects and background color.
+* Whereas HTML is used to create the structure and actual content of a web page (such as written text), and CSS is responsible for the design or style of the website, JavaScript is used to control the behavior of different elements and allows for the development of interactive websites.
 * CSS uses *selectors* to select items in html to format, e.g.
   * Universal selector: *
   * Type selector: elementname
