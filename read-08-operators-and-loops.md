@@ -16,12 +16,42 @@
 
 ### Loops
 
-* Whereas HTML is used to create the structure and actual content of a web page (such as written text), and CSS is responsible for the design or style of the website, JavaScript is used to control the behavior of different elements and allows for the development of interactive websites.
-* JavaScript is single threaded. This is the reason lots of people who use multi-threaded programming thinks its working is slow as it would not be able to make use of all the cores of the CPU properly.
-* Despite the fact that there are similarities between JavaScript and Java, including language name, respective standard libraries and syntax, these two languages are distinct and differ significantly in design.
-* Like all other scripting languages, arrays and objects can be created with a brief shortcut syntax. These literals structure the basis of JSON data format.
-* JavaScript supports regular expressions in a manner similar to Perl, which provides a concise and powerful syntax for text manipulation that is more sophisticated than the built-in string functions.
+* When it comes to programming, few things are more fundamental than loops -- e.g. you wish to log  the numbers 1 through 5 to the console; instead of doing 5 separate console.log commands, a for loop can handle as such: 
 
+```
+for (let num = 1; num <= 5; num++) {
+  console.log(num);
+}
+```
+* **While loops** execute a specified statement as long as the test condition evaluates to true.
+
+```
+while (/*test condition*/) {
+  /* specified statement */
+}
+
+const x = 1;
+while (x <= 10) {
+  console.log(x);
+  x++;
+}
+```
+* **For loops** create a loop that consists of three optional expressions:
+  * initialization - An expression or variable declaration that evaluated once before the loop begins
+  * condition - An expression to be evaluated before each loop iteration. If it evaluates to true, statement is executed
+  * final-expression - An expression to be evaluated at the end of each loop iteration
+* These expressions are enclosed in parentheses and separated by semicolons and are followed by a statement to be executed in the loop
+
+```
+for (/*initialization*/ ; /*condition*/ ; /*final-expression*/ ) {
+  /* statement */
+}
+
+for (var x = 1; x <= 10; x++) {
+  console.log(x);
+}
+
+```
 ### JavaScript online resource
 
-* Among many, probably the most respected practial online resource for developers is found [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript) on the MDN (Mozilla Developers Network) website.
+* For operators, this is a great [resource](https://www.w3schools.com/js/js_operators.asp), and for loops, MDN has probably the best overview [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration).
