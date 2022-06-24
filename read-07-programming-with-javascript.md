@@ -39,7 +39,7 @@ product(3, 2, 4); // product would return 24
   * Arithmetic (+, -, *, /, and %), 
   * String concatenation (+), 
   * Comparison (==, !=, ===, !==, <, >, <=, >=), and 
-  * Logic && (and), || (or)
+  * Logic: and is '&&'; or is '||'
 * Unary operators include:
   * '-' to negate a number,
   * ! to negate logically,  
