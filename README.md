@@ -5,6 +5,8 @@
 4. Read-04: [Structure Webpages with HTML](https://dtuskippy.github.io/reading-notes/read-04-structure-webpages-with-html)
 5. Read-05: [Design Webpages with CSS](https://dtuskippy.github.io/reading-notes/read-05-design-webpages-with-css)
 6. Read-06: [Dynamic Webpages with JavaScript](https://dtuskippy.github.io/reading-notes/read-06-dynamic-webpages-with-javascript)
+7. Read-07: [Programming with JavaScript](https://dtuskippy.github.io/reading-notes/read-07-programming-with-javascript)
+8. Read-08: [Operators and Loops](https://dtuskippy.github.io/reading-notes/read-08-operators-and-loops)
 
 ## Personal Background / Intro
 ### *Hi there!*  ✌️
