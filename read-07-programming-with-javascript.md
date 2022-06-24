@@ -31,8 +31,21 @@ function product(parameter1, parameter2, parameter3) {
 
 product(3, 2, 4); // product would return 24
 ```
+
 ### Operators
+
+* You can combine and transform values with operators. 
+* Binary operators include:
+  * Arithmetic (+, -, *, /, and %), 
+  * String concatenation (+), 
+  * Comparison (==, !=, ===, !==, <, >, <=, >=), and 
+  * Logic (&&, ||)
+* Unary operators include:
+  * - to negate a number,
+  * ! to negate logically,  
+  * typeof to find a value’s type, and
+  * a ternary operator (?:) to pick one of two values based on a third value
 
 ### JavaScript online resource
 
-* Among many, probably the most respected practial online resource for developers is found [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript) on the MDN (Mozilla Developers Network) website.
+* A great resource is a free online book titled [Eloquent JavaScript](https://eloquentjavascript.net/), and written by Marijn Haverbeke.
