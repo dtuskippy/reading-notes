@@ -1,19 +1,13 @@
-## Programming with JavaScript
+## Operators and Loops
 
-### Control Flow
+### Defining JavaScript
 
-* The control flow is the order in which the computer executes statements in a script.
-* Code is run in order from the first line in the file to the last line, unless the computer runs across the (extremely frequent) structures that change the control flow, such as conditionals and loops.
-* For example, imagine a script used to validate user data from a webpage form. The script submits validated data, but if the user, say, leaves a required field empty, the script prompts them to fill it in. To do this, the script uses a conditional structure or if...else, so that different code executes depending on whether the form is complete or not:
+* Excerpts from [(JavaScript on Wikipedia)](https://en.wikipedia.org/wiki/JavaScript): 
 
-```
-if (field==empty) {
-    promptUser();
-} else {
-    submitForm();
-}
-```
-* Control flow means that when you read a script, you must not only read from start to finish but also look at program structure and how it affects order of execution.
+  * *JavaScript is a high level, often just-in-time compiled programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS.*
+  * *As of 2022, 98% of websites use JavaScript on the client side for web page behavior, often incorporating third-party libraries.*
+  * *All major web browsers have a dedicated JavaScript engine to execute the code on users' devices.*
+  * *JavaScript engines were originally used only in web browsers, but are now core components of some servers and a variety of applications. The most popular runtime system for this usage is Node.js.* 
   
 ### JavaScript Highlights
 
