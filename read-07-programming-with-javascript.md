@@ -15,13 +15,18 @@ if (field==empty) {
 ```
 * Control flow means that when you read a script, you must not only read from start to finish but also look at program structure and how it affects order of execution.
   
-### JavaScript Highlights
+### Functions
 
-* Whereas HTML is used to create the structure and actual content of a web page (such as written text), and CSS is responsible for the design or style of the website, JavaScript is used to control the behavior of different elements and allows for the development of interactive websites.
-* JavaScript is single threaded. This is the reason lots of people who use multi-threaded programming thinks its working is slow as it would not be able to make use of all the cores of the CPU properly.
-* Despite the fact that there are similarities between JavaScript and Java, including language name, respective standard libraries and syntax, these two languages are distinct and differ significantly in design.
-* Like all other scripting languages, arrays and objects can be created with a brief shortcut syntax. These literals structure the basis of JSON data format.
-* JavaScript supports regular expressions in a manner similar to Perl, which provides a concise and powerful syntax for text manipulation that is more sophisticated than the built-in string functions.
+* A JavaScript function is a block of code designed to perform a particular task.
+* A JavaScript function is executed when "something" invokes it (calls it).
+```
+function myFunction(p1, p2) {
+  return p1 * p2;   // The function returns the product of p1 and p2
+}
+```
+
+
+### Operators
 
 ### JavaScript online resource
 
