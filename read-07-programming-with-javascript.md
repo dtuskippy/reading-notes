@@ -38,8 +38,8 @@ product(3, 2, 4); // product would return 24
 * Binary operators include:
   * Arithmetic (+, -, *, /, and %), 
   * String concatenation (+), 
-  * Comparison (==, !=, ===, !==, <, >, <=, >=), and 
-  * Logic: and is '&&'; or is '||'
+  * Comparison (==, !=, ===, !==, <, >, <=, >=), and
+  * Logic 
 * Unary operators include:
   * '-' to negate a number,
   * ! to negate logically,  
