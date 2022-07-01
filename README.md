@@ -1,4 +1,4 @@
-# Table of Contents
+# Code 102 Reading Notes
 1. Read-01: [Learning Markdown](https://dtuskippy.github.io/reading-notes/read-01-learning-markdown)
 2. Read-02: [The Coder's Computer](https://dtuskippy.github.io/reading-notes/read-02-the-coders-computer)
 3. Read-03: [Revisions and the Cloud](https://dtuskippy.github.io/reading-notes/read-03-revisions-and-the-cloud)
@@ -7,6 +7,23 @@
 6. Read-06: [Dynamic Webpages with JavaScript](https://dtuskippy.github.io/reading-notes/read-06-dynamic-webpages-with-javascript)
 7. Read-07: [Programming with JavaScript](https://dtuskippy.github.io/reading-notes/read-07-programming-with-javascript)
 8. Read-08: [Operators and Loops](https://dtuskippy.github.io/reading-notes/read-08-operators-and-loops)
+
+# Code 201 Reading Notes
+1. Reading Assignment 1
+2. Reading Assignment 2
+3. Reading Assignment 3
+4. Reading Assignment 4
+5. Reading Assignment 5
+6. Reading Assignment 6
+7. Reading Assignment 7
+8. Reading Assignment 8
+9. Reading Assignment 9
+10. Reading Assignment 10
+11. Reading Assignment 11
+12. Reading Assignment 12
+13. Reading Assignment 13
+14. Reading Assignment 14
+15. Reading Assignment 15
 
 ## Personal Background / Intro
 ### *Hi there!*  ✌️
