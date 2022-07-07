@@ -44,17 +44,17 @@
 ### Miscelleneous
 
 1. What is the first step to designing a Website?
-    * 
+    * *Project ideation* -- basically this means actually defining what you hope to accomplish by publishing the website, i.e. defining goals, including various stakeholders, etc.
 2. What is the most important question to answer when designing a Website?
-    * 
+    * *What exactly do I want to accomplish?* -- just basically list all the goals of the site
 3. Why should you use an <h1> element over a <span> element to display a top level heading?
-    * 
+    * From a content / styling perspective, you can use either an h1 or a span element, but by using the span element, you lose the all-important semantic meaning that the h1 provides
 4. What are the benefits of using semantic tags in our HTML?
-    * 
+    * Using semantic tags has all the typical benefits of using any standard that is understood universally, i.e. stick to the standard so that all varieties of human (other developers) and non-human (search engines) actors can interact effectively with your site
 5. Describe 2 things that require JavaScript in the Browser?
     * 
 6. How can you add JavaScript to an HTML document?
-    * 
+    * Via the script element, e.g. <script src="app.js"></script>
 
 * Excerpts from [(article on choosing a text editor)](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf): 
   *   *A text editor is a piece of software that you download and install on your computer, or you access online through your web browser, that allows you to write and manage text, especially the text that you write to build a web site.*
