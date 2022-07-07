@@ -54,7 +54,7 @@
 5. Describe 2 things that require JavaScript in the Browser?
     * Generally make a website dynamic by using the logic of JS; e.g. storing values in variables, the use of conditional programming to react to user input, etc.
 6. How can you add JavaScript to an HTML document?
-    * Via the script element, e.g. <script src="app.js"></script>
+    * Via the script element, e.g. < script src="app.js" > < /script >
 
 ## Things I want to know more about
 * Key area to understand better is interacting with the BOM
