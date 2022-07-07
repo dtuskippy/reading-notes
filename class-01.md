@@ -17,8 +17,44 @@
     * Strings are effectively text and enclosed in single or double quotes, as long as the single or double quotes are not mixed
     * Numbers are *just numbers,* and are not enclosed in quotes
 5. What is a Variable and why are they important in JavaScript?
-    * Variables are containers that contain values, e.g. let day = Monday;
+    * Variables are containers that contain values, e.g. let day = "Monday";
     * Variables are the key basis that make computer programs dynamic, by allowing values to change
+
+### Introduction to HTML
+
+1. What is an HTML attribute?
+    * Attributes contain extra information about an element that doesn't appear in the content itself; examples include links and CSS reference identifiers
+2. Describe the Anatomy of an HTML element.
+    * Basic anatomy includes opening and closing tags that enclose the content itself, and also attributes which are placed within the opening tag, e.g. <p href="https://www.cityofdavis.org/">Davis, California</p>
+3. What is the Difference between <article> and <section> element tags?
+    * Article contains independent content that doesn't require other context, e.g. news site article, blog post
+    * Section divides a page into different sections like team, location, contact information
+4. What Elements does a “typical” website include?
+    * header: usually stays same across website; e.g. for a company site, this is where the logo, company name, and company motto would 
+    * navigation bar: usually stays same across website, and often in the header; links to other pages on the website
+    * main content: format may stay same across website, but this is where the unique content that gives the whole purpose of having separate web pages, e.g. for a company site, pages for products, about us, and contact us would all have unique content in the main portion 
+    * sidebar: usually stay same across website; sort of a second header in some cases, with navigation, some ads, etc.
+    * footer: usually stays same across website; where detailed, almost administrative information goes, like copyright information or redundant navigation, but also where ads are served, etc.
+5. How does metadata influence Search Engine Optimization?
+    * it is important to optimize metadata like page titles and meta descriptions for every page; this helps search engines determine what your site's content is about and whether it is relevant to include in search results.
+6. How is the <meta> HTML tag used when specifying metadata?
+    * It is commonly used to specify site's character set, e.g. UTF-8, and the use of name and content to describe the content itself, the author of the content, viewport information, etc.
+
+
+### Miscelleneous
+
+1. What is the first step to designing a Website?
+    * 
+2. What is the most important question to answer when designing a Website?
+    * 
+3. Why should you use an <h1> element over a <span> element to display a top level heading?
+    * 
+4. What are the benefits of using semantic tags in our HTML?
+    * 
+5. Describe 2 things that require JavaScript in the Browser?
+    * 
+6. How can you add JavaScript to an HTML document?
+    * 
 
 * Excerpts from [(article on choosing a text editor)](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf): 
   *   *A text editor is a piece of software that you download and install on your computer, or you access online through your web browser, that allows you to write and manage text, especially the text that you write to build a web site.*
