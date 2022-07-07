@@ -12,8 +12,13 @@
     * From the parsed HTML, an in-memory DOM tree is generated; from the parsed CSS, and in-memory CSSOM structure is generated; and parsed JS is compiled and executed
     * Eventually a visual representation of the page is painted to the screen for the user to see and interact with
 3. How can you find images to add to a Website?
+    * An obvious place to start is with [Google Images](https://images.google.com/) -- care must be taken not to violate copyright, and filtering via usage rights for Creative Commons licenses is a good practice
 4. How do you create a String vs a Number in JavaScript?
+    * Strings are effectively text and enclosed in single or double quotes, as long as the single or double quotes are not mixed
+    * Numbers are *just numbers,* and are not enclosed in quotes
 5. What is a Variable and why are they important in JavaScript?
+    * Variables are containers that contain values, e.g. let day = Monday;
+    * Variables are the key basis that make computer programs dynamic, by allowing values to change
 
 * Excerpts from [(article on choosing a text editor)](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf): 
   *   *A text editor is a piece of software that you download and install on your computer, or you access online through your web browser, that allows you to write and manage text, especially the text that you write to build a web site.*
