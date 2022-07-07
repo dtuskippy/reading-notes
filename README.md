@@ -9,7 +9,7 @@
 8. Read-08: [Operators and Loops](https://dtuskippy.github.io/reading-notes/read-08-operators-and-loops)
 
 # Code 201 Reading Notes
-1. Reading Assignment: [Class-01]((https://dtuskippy.github.io/reading-notes/class-01))
+1. Reading Assignment: [Class-01](https://dtuskippy.github.io/reading-notes/class-01)
 2. Reading Assignment: Class-02
 3. Reading Assignment; Class-03
 4. Reading Assignment: Class-04
