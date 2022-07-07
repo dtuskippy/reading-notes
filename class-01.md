@@ -1,5 +1,19 @@
 ## Class-01 Reading Notes  
-### Text Editor definition and tips
+### Getting Started
+
+1. Compose a short poem describing how HTTP sends data between computers.
+    * HTTP like a bow in the quiver
+    * From A to B it's fixing to deliver
+    * From north to south and from shore to shore
+    * Here's hoping you don't wind up with a 404
+2. Describe how HTML, CSS, and JS files are “parsed” in the browser.
+    * First, the browser parses the HTML, and as part of the process will recogize link or script elements for CSS and JS respectively
+    * It will then request CSS or JS files it has found from the server, and subsequently parse them
+    * From the parsed HTML, an in-memory DOM tree is generated; from the parsed CSS, and in-memory CSSOM structure is generated; and parsed JS is compiled and executed
+    * Eventually a visual representation of the page is painted to the screen for the user to see and interact with
+3. How can you find images to add to a Website?
+4. How do you create a String vs a Number in JavaScript?
+5. What is a Variable and why are they important in JavaScript?
 
 * Excerpts from [(article on choosing a text editor)](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf): 
   *   *A text editor is a piece of software that you download and install on your computer, or you access online through your web browser, that allows you to write and manage text, especially the text that you write to build a web site.*
@@ -24,3 +38,6 @@
 
 ### CLI command resource
 * There are many more CLI commands than listed above in 'CLI common commands' -- here is a solid [CLI cheat sheet](https://cheatography.com/davechild/cheat-sheets/linux-command-line/) for Linux environments
+
+## Things I want to know more about
+
