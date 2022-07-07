@@ -9,21 +9,21 @@
 8. Read-08: [Operators and Loops](https://dtuskippy.github.io/reading-notes/read-08-operators-and-loops)
 
 # Code 201 Reading Notes
-1. Reading Assignment 1
-2. Reading Assignment 2
-3. Reading Assignment 3
-4. Reading Assignment 4
-5. Reading Assignment 5
-6. Reading Assignment 6
-7. Reading Assignment 7
-8. Reading Assignment 8
-9. Reading Assignment 9
-10. Reading Assignment 10
-11. Reading Assignment 11
-12. Reading Assignment 12
-13. Reading Assignment 13
-14. Reading Assignment 14
-15. Reading Assignment 15
+1. Reading Assignment: Class 01
+2. Reading Assignment: Class 02
+3. Reading Assignment; Class 03
+4. Reading Assignment: Class 04
+5. Reading Assignment: Class 05
+6. Reading Assignment: Class 06
+7. Reading Assignment: Class 07
+8. Reading Assignment: Class 08
+9. Reading Assignment: Class 09
+10. Reading Assignment: Class 10
+11. Reading Assignment: Class 11
+12. Reading Assignment: Class 12
+13. Reading Assignment: Class 13
+14. Reading Assignment: Class 14
+15. Reading Assignment: Class 15
 
 ## Personal Background / Intro
 ### *Hi there!*  ✌️
