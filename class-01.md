@@ -30,15 +30,15 @@
     * Article contains independent content that doesn't require other context, e.g. news site article, blog post
     * Section divides a page into different sections like team, location, contact information
 4. What Elements does a “typical” website include?
-    * header: usually stays same across website; e.g. for a company site, this is where the logo, company name, and company motto would 
+    * header: usually stays same across website; e.g. for a company site, this is where the logo, company name, and company motto would go
     * navigation bar: usually stays same across website, and often in the header; links to other pages on the website
-    * main content: format may stay same across website, but this is where the unique content that gives the whole purpose of having separate web pages, e.g. for a company site, pages for products, about us, and contact us would all have unique content in the main portion 
+    * main content: format may stay same across website, but this is where the unique content resides that provides the whole purpose behind having separate web pages, e.g. for a company site, pages for products, about us, and contact us would all have unique content in their respective main section 
     * sidebar: usually stay same across website; sort of a second header in some cases, with navigation, some ads, etc.
     * footer: usually stays same across website; where detailed, almost administrative information goes, like copyright information or redundant navigation, but also where ads are served, etc.
 5. How does metadata influence Search Engine Optimization?
     * it is important to optimize metadata like page titles and meta descriptions for every page; this helps search engines determine what your site's content is about and whether it is relevant to include in search results.
 6. How is the <meta> HTML tag used when specifying metadata?
-    * It is commonly used to specify site's character set, e.g. UTF-8, and the use of name and content to describe the content itself, the author of the content, viewport information, etc.
+    * It is commonly used to specify a site's character set, e.g. UTF-8, and the use of name and content to describe the content itself, the author of the content, viewport information, etc.
 
 
 ### Miscelleneous
