@@ -4,13 +4,14 @@
 ### Learn HTML - Ordered and Unordered Lists
 
 1. When should you use an unordered list in your HTML document?
-    * 
+    * When you have a list where the order is pretty much meaningless.
 2. How do you change the bullet style of unordered list items?
-    * 
+    * Via the type attribute, e.g. circle, disc, square.
 3. When should you use an ordered list vs an unorder list in your HTML document?
-    * 
+    * When the order is meaningful (top 10 list, step-by-step directions, etc.), use an odered list; otherwise, go with unordered.
 4. Describe two ways you can change the numbers on list items provided by an ordered list?
-    * 
+    * Via the reversed and start attributes; reversed literally reversed the order of the list, and start allows you start the list at any number you want (default is 1)
+    * Additionally, via the type attribute, you have options for the type of 'number' used, e.g. numbers, roman numerals, letters.
 
 ### Learn CSS - The Box Model
 
