@@ -17,33 +17,49 @@
 ### How CSS Is Structured
 
 1. What are ways we can apply CSS to our HTML?
-    * 
+    * External stylesheet (considered best practice)
+    * Internal stylesheet (can be useful in limited circumstances)
+    * Inline (discouraged)
 2. Why should we avoid using inline styles?
-    * 
+    * Least efficent for maintenance -- would have to run around a website(s) to make changes versus in a single CSS style sheet -- almost unimaginably complex for a bigger project.
+    * Mix CSS presentational code with HTML and content - opposite of best practice of keeping content and code separate. 
 3. Review the block of code below and answer the following questions:
     * What is representing the selector?
-      * 
+      * h2
     * Which components are the CSS declarations?
-      * 
+      * color: black;
+      * padding: 5px;
     * Which components are considered properties?
-      * 
+      * color 
+      * padding
 
 ### JavaScript Basics
 
 1. What data type is a sequence of text enclosed in single quote marks?
-    * 
+    * String
 2. List 4 types of JavaScript operators.
-    * 
+    * Assignment ( = ): assigns values to variables
+    * Strict equality ( === ): checks if 2 values are equals, incl. whether of same type of not
+    * Addition ( + ): adds two numbers together; also used with strings in concatentation
+    * Not, does not equal ( !, !== ): basically inverts/negates what comes to the right of it, so !== means that two values are NOT equal
 3. Describe a real world Problem you could solve with a Function. 
-    * 
+    * Practial real world website example given in reading is the alert() function, which makes up a pop-up box appear in the browser 
+    * Generally, the use cases for functions are as widespread as imaginable, as they're reusable blocks of code
 
 ### JavaScript Conditionals
 
-1. An if statement checks a __ and if it evaluates to ___, then the code block will execute.
+1. An if statement checks a [<u>condition</u>] and if it evaluates to [<u>true</u>], then the code block will execute.
 2. What is the use of an else if?
+    *  It is a way to chain on extra choices / outcomes to the if-else construction, effectively allowing to extend the if statement to multiple conditions 
 3. List 3 different types of comparison operators.
+    * === and !== — test if one value is identical to, or not identical to, another.
+    * < and > — test if one value is less than or greater than another.
+    * <= and >= — test if one value is less than or equal to, or greater than or equal to, another.
 4. What is the difference between the logical operator && and ||?
+    * && equals and
+    * || equals or
 
 ## Things I want to know more about
 * Key area to understand better is interacting with the BOM
+* Understanding how common switch statements and ternary operators are used in professional environments
 
