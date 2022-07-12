@@ -1,4 +1,6 @@
 ## Class-02 Reading Notes  
+<p>It is pretty self-evident that readings on HTML, CSS and JavaScript have relevance to the course at hand -- they're the building blocks of modern websites.</p>
+
 ### HTML Text Fundamentals; HTML Advanced Text Formatting
 
 1. Why is it important to use semantic elements in our HTML?
