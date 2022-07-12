@@ -42,8 +42,8 @@
     * Strict equality ( === ): checks if 2 values are equals, incl. whether of same type of not
     * Addition ( + ): adds two numbers together; also used with strings in concatentation
     * Not, does not equal ( !, !== ): basically inverts/negates what comes to the right of it, so !== means that two values are NOT equal
-3. Describe a real world Problem you could solve with a Function. 
-    * Practial real world website example given in reading is the alert() function, which makes up a pop-up box appear in the browser 
+3. Describe a real world Problem you could solve with a Function.
+    * Practical real world website example given in reading is the alert() function, which makes a pop-up box appear in the browser 
     * Generally, the use cases for functions are as widespread as imaginable, as they're reusable blocks of code
 
 ### JavaScript Conditionals
@@ -55,9 +55,9 @@
     * === and !== — test if one value is identical to, or not identical to, another.
     * < and > — test if one value is less than or greater than another.
     * <= and >= — test if one value is less than or equal to, or greater than or equal to, another.
-4. What is the difference between the logical operator && and ||?
+4. What is the difference between the logical operator && and \||\?
     * && equals and
-    * || equals or
+    * \||\ equals or
 
 ## Things I want to know more about
 * Key area to understand better is interacting with the BOM
