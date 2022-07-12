@@ -11,7 +11,7 @@
 # Code 201 Reading Notes
 1. Reading Assignment: [Class-01](https://dtuskippy.github.io/reading-notes/class-01)
 2. Reading Assignment: [Class-02](https://dtuskippy.github.io/reading-notes/class-02)
-3. Reading Assignment; Class-03
+3. Reading Assignment; [Class-03](https://dtuskippy.github.io/reading-notes/class-03)
 4. Reading Assignment: Class-04
 5. Reading Assignment: Class-05
 6. Reading Assignment: Class-06
