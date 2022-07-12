@@ -8,10 +8,11 @@
     * CSS relies heavily on targeting standardized html elements for styling.
 2. How many levels of headings are there in HTML?
     * There are 6 levels of headings in HTML.
-3. What are some uses for the <sup> and <sub> elements?
-    * 
+3. What are some uses for the < sup > and < sub > elements?
+    * A great use case example of the < sup > element is for dates like the twenty sixth of August, e.g. 26<sup>th</sup> of August.
+    * A great use case example of < sub > element is for a chemical formula, e.g. H<sub>2</sub>O.
 4. When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
-    * 
+    * An abbreviation title must be added so that a user can hover on the abbreviation and see the full version of what the abbreviation represents.
 
 ### How CSS Is Structured
 
