@@ -55,11 +55,11 @@
     * === and !== — test if one value is identical to, or not identical to, another.
     * < and > — test if one value is less than or greater than another.
     * <= and >= — test if one value is less than or equal to, or greater than or equal to, another.
-4. What is the difference between the logical operator && and \||?
+4. What is the difference between the logical operator && and \|\|?
     * && equals and
-    * \|| equals or
+    * \|\| equals or
 
 ## Things I want to know more about
 * Key area to understand better is interacting with the BOM
-* Understanding how common switch statements and ternary operators are used in professional environments
+* Understanding how commonly switch statements and ternary operators are used in professional environments
 
