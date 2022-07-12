@@ -2,9 +2,12 @@
 ### HTML Text Fundamentals; HTML Advanced Text Formatting
 
 1. Why is it important to use semantic elements in our HTML?
-    * 
+    * People are used to standards for written documents, be they newspapers, books, or web pages -- i.e. users viewing a website find it much easier to read and navigate a website if the website adheres to generally accepted standards like headings and paragraphs with line breaks, etc. 
+    * Search engines rely on standardized html elements to quickly make sense of websites, and gauge their relevance.
+    * Screen readers rely on standardized html elements, and can read headings to visually impaired people so they do not have to listen to a read-out of the entire web page before deciding on where they have interest to dive deeper.
+    * CSS relies heavily on targeting standardized html elements for styling.
 2. How many levels of headings are there in HTML?
-    * 
+    * There are 6 levels of headings in HTML.
 3. What are some uses for the <sup> and <sub> elements?
     * 
 4. When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
