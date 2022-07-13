@@ -4,11 +4,14 @@
 ### Learn HTML - Creating Hyperlinks
 
 1. To create a basic link, we wrap text or other content inside what element?
-    * 
+    * Anchor tags
 2. The href attribute contains what information?
-    * 
+    * Web address
 3. What are some ways we can ensure links on our pages are accessible to all readers?
-    * 
+    * Adding a title
+    * Include link text with key words so search engines can more easily index files
+    * Visual readers prefer link text since they skim over pages, and the text makes it easier for them to select links of interest
+    * Screen readers jump around to different links on a page fairly randomly, so try to organize in such a way to counter that
 
 
 ### CSS Layout - Normal Flow CSS Layout: Positioning
