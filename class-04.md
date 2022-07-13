@@ -22,6 +22,7 @@
     * Inline elements don't force a new line to begin in the document flow, whereas block-level elements cause a new line to occur
     * A block-level element takes up the full width available, while an inline element only takes up as much width as necessary
 3. <u>Static</u> positioning is the default for every html element.
+
 4. Name a few advantages to using absolute positioning on an element.
     * Can create UI features that don't interfere with the layout of other elements, like popup boxes, control menus, rollover panels and others
 5. What is a key difference between fixed positioning and absolute positioning?
@@ -35,7 +36,7 @@
     * Function invocation is the actual 'calling' of the function; until the function is called/invoked, it is completely useless.
 2. What is the difference between a parameter and an argument?
     * Not required, but some functions have parameters to be inputted into the parentheses before the function can be invoked, e.g. a 'sum' function may have 2 'number' parameters that must inputted
-    * Argument is what is actually inputted into the function that meet the requirements of the parameters, from 'sum' function above, the parameters may be (num1, num2), and the arguments could be (3,5), with the function outputting 8.
+    * Argument is what is actually inputted into the function that meet the requirements of the parameters -- e.g. from 'sum' function above, the parameters may be (num1, num2), and the arguments could be (3, 5), with the function outputting 8.
 
 ### Miscellaneous - 6 Reasons for Pair Programming
 
@@ -44,6 +45,7 @@
     * Work environment readiness: similar to the likely related job interview readiness, preparing for the 'real world' makes a lot of sense.
 
 ## Things I want to know more about
-* Need a lot more experience working with CSS; seems like a topic that is hard to read about; have to just use it a lot
+    * Need a lot more experience working with CSS; seems like a topic that is hard to read about; have to just use it a lot
+    * I obviously will have to learn more about pair programming through practice; I am total novice in the area
  
 
