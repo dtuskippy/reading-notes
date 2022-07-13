@@ -45,7 +45,6 @@
     * Work environment readiness: similar to the likely related job interview readiness, preparing for the 'real world' makes a lot of sense.
 
 ## Things I want to know more about
-    * Need a lot more experience working with CSS; seems like a topic that is hard to read about; have to just use it a lot
-    * I obviously will have to learn more about pair programming through practice; I am total novice in the area
- 
 
+1. I need a lot more experience working with CSS; seems like a topic that is hard to read about; have to just primarily learn by doing.
+2. I obviously will have to learn more about pair programming through practice; I am a total novice in the area.
