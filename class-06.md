@@ -4,9 +4,9 @@
 ### JavaScript Object Basics
 
 1. How would you describe an object to a non-technical friend you grew up with?
-    * It's main purpose is to group data, usually repeatable data together into an aggregated unit, e.g. everybody has a driver's license with the same basic data *properties* on it, like name, date of birthe, license number, but of course the *values* for individuals are all different -- effectively, driver's license data is an object
+    * It's main purpose is to group data, usually repeatable identical data types together into an aggregated unit, e.g. everybody has a driver's license with the same basic data *properties* on it, like name, date of birth, and license number -- but of course the *values* for individuals are all different -- effectively, driver's license data is an object
 2. What are some advantages to creating object literals?
-    * Sending a single object (series of structured, related data items) is much more efficiet than sending items individually -- benefits of consolidation
+    * Sending a single object (series of structured, related data items) is much more efficient than sending items individually -- benefits of consolidation
 3. How do objects differ from arrays?
     * When you want to identify individual items by name, objects are easier than arrays to work with
 4. Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.
