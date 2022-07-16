@@ -14,18 +14,19 @@
     * Layout tables reduce accessibility for visually impaired users:  Because tables are not the right tool for layout, and the markup is more complex than with CSS layout techniques, the screenreaders' output will be confusing to their users.
     * Tables produce tag soup: table layouts generally involve more complex markup structures than proper layout techniques. This can result in the code being harder to write, maintain, and debug
     * Tables are not automatically responsive: tables are sized according to their content by default, so extra measures are needed to get table layout styling to effectively work across a variety of devices.
-2. List and describe 3 different semantic HTML elements used in an HTML < table >.
-    * < table > tags that enclose the table.
-    * < th > tags that enclose headers, setting out the columns.
-    * < tr > tags that enclsoe rows.
-    * < td > tags that enclose cells.
+2. List and describe 3 different semantic HTML elements used in an HTML <table\>.
+    * <table\> tags that enclose the table.
+    * <th\> tags that enclose headers, setting out the columns.
+    * <tr\> tags that enclsoe rows.
+    * <td\> tags that enclose cells.
 
 ### Introducing Constructors
 
 1. What is a constructor and what are some advantages to using it?
-    * 
+    * A type of function that creates an object when invoked.
+    * It is much more efficient than object literals when creating many objects with the same basic properties.
 2. How does the term this differ when used in an object literal versus when used in a constructor?
-    * 
+    * In an object literal, this refers to an object which is overtly assigned and returned within the function; in a constructor, this refers to an object whose construction and return is effectively automated under the hood.
 
 ### Object Prototypes Using A Constructor
 
