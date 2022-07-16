@@ -15,7 +15,17 @@
 5. Evaluate the code below. What does the term this refer to and what is the advantage to using this?
     * this keyword refers to the current object the code is being written inside
 
+### Introduction to the BOM
+
+1. What is the DOM?
+    * The data representation of the objects that comprise the structure and content of a document on the web.
+    * Programming interface for web documents -- it represents the page so that programs can change the document structure, style, and content.
+
+2. Briefly describe the relationship between the DOM and JavaScript.
+    * The DOM is not part of the JavaScript language, but is instead a Web API used to build websites.
+    * Without it, the JavaScript language wouldn't have any model or notion of web pages, HTML documents, SVG documents, and their component parts.
+
 
 ## Things I want to know more about
 
-1. For some strange reason, I intuitively understand arrays better than objects -- I don't know why, but I need to beat it out of my system soon!
+1. I have only had brief exposure to the DOM, so really need to work to understand it.
