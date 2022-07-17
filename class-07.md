@@ -1,5 +1,5 @@
 ## Class-07 Reading Notes  
-<p>It is clear that readings on HTML and CSS are relevant to the course on hand -- they're 2 of the 3 (along with JavaScript) building blocks of modern websites.</p>
+<p>My understanding is that working with data is the real key skill set a developer can have in today's world, and objects are absolutely central to that skill set.</p>
 
 ### Domain Modeling
 
@@ -32,11 +32,8 @@
 
 1. Explain prototypes and inheritance via an analogy from your previous work experience.
 NOTE: This is a very common front end developer interview question
-    * 
-
-
-
+    * In the investment space, I would equate prototypes with template legal documents like term sheets, and inheritance being the process where a new term sheet inherits the previous template when it is created.
 
 ## Things I want to know more about
 
-1. I need more experience working with images in a more sophisticated way.
+1. The 'heavy' topics from above for me are constructors and prototypes -- I realize that I need to understand these well, and many things yet to come will be built upon these fundamental concepts.
