@@ -12,12 +12,12 @@
 
 1. Why should tables not be used for page layouts?
     * Layout tables reduce accessibility for visually impaired users:  Because tables are not the right tool for layout, and the markup is more complex than with CSS layout techniques, the screenreaders' output will be confusing to their users.
-    * Tables produce tag soup: table layouts generally involve more complex markup structures than proper layout techniques. This can result in the code being harder to write, maintain, and debug
+    * Tables produce tag soup: table layouts generally involve more complex markup structures than proper layout techniques. This can result in the code being harder to write, maintain, and debug.
     * Tables are not automatically responsive: tables are sized according to their content by default, so extra measures are needed to get table layout styling to effectively work across a variety of devices.
 2. List and describe 3 different semantic HTML elements used in an HTML <table\>.
     * <table\> tags that enclose the table.
     * <th\> tags that enclose headers, setting out the columns.
-    * <tr\> tags that enclsoe rows.
+    * <tr\> tags that enclose rows.
     * <td\> tags that enclose cells.
 
 ### Introducing Constructors
