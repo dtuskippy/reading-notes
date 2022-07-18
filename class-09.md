@@ -1,5 +1,5 @@
 ## Class-09 Reading Notes  
-<p>It is clear that readings on HTML and CSS are relevant to the course on hand -- they're 2 of the 3 (along with JavaScript) building blocks of modern websites.</p>
+<p>Website interactivity is absolutely crucial to a successfully deployed website, and HTML forms and events in JS are key building blocks of that interactivity.</p>
 
 ### HTML Forms
 
@@ -18,14 +18,14 @@
 ### JavaScript - Introduction to Events
 
 1. How would you describe events to a non-technical friend?
-    * Events are effectively website sensors, that alert you various activity on your site.
+    * Events are effectively website sensors, that alert you to various types of activity on your site.
 2. When using the addEventListener() method, what 2 arguments will you need to provide?
     * Name of the event.
     * Function that handles the event.
 3. Describe the event object. Why is the target within the event object useful?
     * It's a reference to the element the event took place upon.
 4. What is the difference between event bubbling and event capturing?
-    * Bubbling goes inside out, and event capturing goes outside in, e.g. bubbling would button, div, body, whereas capturing would go in opposite order.
+    * Bubbling goes inside out, and event capturing goes outside in, e.g. bubbling would return 1.button, 2. div, 3. body, whereas capturing would go in opposite order.
 
 ## Things I want to know more about
 
