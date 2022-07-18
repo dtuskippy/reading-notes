@@ -25,7 +25,7 @@
 3. Describe the event object. Why is the target within the event object useful?
     * It's a reference to the element the event took place upon.
 4. What is the difference between event bubbling and event capturing?
-    * Bubbling goes inside out, and event capturing goes outside in, e.g. bubbling would return 1.button, 2. div, 3. body, whereas capturing would go in opposite order.
+    * Bubbling goes inside out, and event capturing goes outside in, e.g. bubbling would return 1. button, 2. div, 3. body, whereas capturing would go in opposite order.
 
 ## Things I want to know more about
 
