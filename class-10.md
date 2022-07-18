@@ -8,14 +8,14 @@
     * Logic errors is where code runs successfully but gives incorrect results -- harder to correct.
 2. List a few types of errors that you have encountered in past lab assignments and explain how you were able to correct them.
     * Syntax errors: all types of syntax errors; most common for me is mis-spelling a variable name, or forgetting to put quotes around a string (not defined error for both).
-    * Logic errors: most common have been not taking into account edge cases, i.e. a function runs fine with positive numbers provided as arguments, but then spits out incorrect answers with negative numbers as arguements.
+    * Logic errors: most common have been not taking into account edge cases, i.e. a function runs fine with positive numbers provided as arguments, but then spits out incorrect answers with negative numbers as arguments.
 3. How will this topic continue to influence your long term goals?
     * It's self-evidently crucial, the equivalent of editing for a journalist -- if code doesn't work, soon the developer won't either.
 
 ### The JavaScript Debugger
 
 1. How would you describe the JavaScript Debugger tool and how it works to someone just starting out in software development?
-    *  It allows you to work through your code line-by-line / step-by-step, and literally stop the executions the code execution line-by-line if need be -- a great tool to slow things down and address bugs.
+    *  It allows you to work through your code line-by-line / step-by-step, and literally stop the code execution line-by-line if need be -- a great tool to slow things down and address bugs.
 2. Define what a breakpoint is.
     * Places in your code where you pause execution and identify the problems that prevent your code from executing properly, i.e. really able to go line-by-line / step-by-step through code execution.
 3. What is the call stack?
@@ -23,4 +23,4 @@
 
 ## Things I want to know more about
 
-1. I have had some passing familiarty with debguggin tools, and really need to improve my skills in that area.
+1. I have had only some passing familiarty with debgugging tools, and really need to improve my skills in that area.
