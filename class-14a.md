@@ -20,7 +20,7 @@
 1. What are some benefits to using CSS transitions on websites?
     * Excite your users, increase engagement and ultimately, when used well, increase your conversions.
 2. How this topic fit in with your long-term goals?
-    * I would like to a technical founder, and have thoughts on both the B2B and B2C side -- what is obvious to me is how often B2B sites are quite *sterile* versus B2C sites...and they shouldn't be -- i.e. makig the use of the latest graphics capabilities would provide differentiation and lead to real positive business outcomes.
+    * I would like to a technical founder, and have thoughts on both the B2B and B2C side -- what is obvious to me is how often B2B sites are quite *sterile* versus B2C sites...and they shouldn't be -- i.e. making intelligent use of the latest graphics capabilities would provide differentiation and could lead to real positive business outcomes.
 
 ## Things I want to know more about
 
