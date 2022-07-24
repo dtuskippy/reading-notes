@@ -1,5 +1,5 @@
 ## Class-12 Reading Notes  
-<p>I am coming from the business side of the tech world, specifically the venture capital world, where the visualization of data is the lifeblood of the industry and your day-to-day life, so I 'beyond get' the importantance of the effective visualization of data in today's world.</p>
+<p>I am coming from the business side of the tech world, specifically the venture capital world, where the visualization of data is the lifeblood of the industry and your day-to-day life, so I 'beyond get' the importance of the effective visualization of data in today's world.</p>
 
 ### JavaScript Canvas
 
@@ -21,7 +21,7 @@
 ### Easily Create Stunning Animated Charts with Chart.js
 
 1. What are some advantages to displaying data via a chart over a table?
-    * Charts can communicate better than tables -- as always, it depends on the context.
+    * Charts can sometimes communicate better than tables -- as always, it depends on the context.
     * The article mentioned that an added benefit of charts is *that no one is ever going to press-gang them into use as a layout tool* - I do not understand their point here, honestly.
 2. How could Chart.js aid your previously created applications visually?
     * This would allow many more visualization options for the data behind the sales table in Salmon Cookies.
