@@ -19,11 +19,11 @@
 8. Reading Assignment: [Class-08](https://dtuskippy.github.io/reading-notes/class-08)
 9. Reading Assignment: [Class-09](https://dtuskippy.github.io/reading-notes/class-09)
 10. Reading Assignment: [Class-10](https://dtuskippy.github.io/reading-notes/class-10)
-11. Reading Assignment: Class-11
-12. Reading Assignment: Class-12
-13. Reading Assignment: Class-13
-14. Reading Assignment: Class-14
-15. Reading Assignment: Class-15
+11. Reading Assignment: [Class-11](https://dtuskippy.github.io/reading-notes/class-11)
+12. Reading Assignment: [Class-12](https://dtuskippy.github.io/reading-notes/class-12)
+13. Reading Assignment: [Class-13](https://dtuskippy.github.io/reading-notes/class-13)
+14. Reading Assignment: [Class-14](https://dtuskippy.github.io/reading-notes/class-14)
+15. Reading Assignment: [Class-15](https://dtuskippy.github.io/reading-notes/class-15)
 
 ## Personal Background / Intro
 ### *Hi there!*  ✌️
