@@ -22,8 +22,8 @@
 11. Reading Assignment: [Class-11](https://dtuskippy.github.io/reading-notes/class-11)
 12. Reading Assignment: [Class-12](https://dtuskippy.github.io/reading-notes/class-12)
 13. Reading Assignment: [Class-13](https://dtuskippy.github.io/reading-notes/class-13)
-14. Reading Assignment: [Class-14](https://dtuskippy.github.io/reading-notes/class-14)
-15. Reading Assignment: [Class-15](https://dtuskippy.github.io/reading-notes/class-15)
+14. Reading Assignment: [Class-14a](https://dtuskippy.github.io/reading-notes/class-14a)
+15. Reading Assignment: [Class-14b](https://dtuskippy.github.io/reading-notes/class-14b)
 
 ## Personal Background / Intro
 ### *Hi there!*  ✌️
