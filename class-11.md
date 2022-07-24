@@ -16,7 +16,7 @@
 ### A Complete Guide To Grid
 
 1. How does Grid layout differ from Flex?
-    * The basic difference between CSS Grid Layout and CSS Flexbox Layout is that flexbox was designed for layout in one dimension - either a row or a column. Grid was designed for two-dimensional layout - rows, and columns at the same time.
+    * The basic difference between CSS Grid Layout and CSS Flexbox Layout is that flexbox was designed for layout in one dimension - either a row or a column. Grid was designed for two-dimensional layout - rows and columns at the same time.
 2. Grid container, grid item, and grid line are a few important terms to understand when using Grid. Please describe these terms in a few sentences.
     * Grid container: the parent element on which 'display: grid' is applied.
     * Grid item: the children of the grid container.
