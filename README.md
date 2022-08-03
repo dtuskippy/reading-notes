@@ -1,4 +1,4 @@
-# Code 102 Reading Notes
+g# Code 102 Reading Notes
 1. Read-01: [Learning Markdown](https://dtuskippy.github.io/reading-notes/read-01-learning-markdown)
 2. Read-02: [The Coder's Computer](https://dtuskippy.github.io/reading-notes/read-02-the-coders-computer)
 3. Read-03: [Revisions and the Cloud](https://dtuskippy.github.io/reading-notes/read-03-revisions-and-the-cloud)
@@ -9,21 +9,21 @@
 8. Read-08: [Operators and Loops](https://dtuskippy.github.io/reading-notes/read-08-operators-and-loops)
 
 # Code 201 Reading Notes
-1. Reading Assignment: [Class-201-01](https://dtuskippy.github.io/reading-notes/class-201-01)
-2. Reading Assignment: [Class-201-02](https://dtuskippy.github.io/reading-notes/class-201-02)
-3. Reading Assignment; [Class-201-03](https://dtuskippy.github.io/reading-notes/class-201-03)
-4. Reading Assignment: [Class-201-04](https://dtuskippy.github.io/reading-notes/class-201-04)
-5. Reading Assignment: [Class-201-05](https://dtuskippy.github.io/reading-notes/class-201-05)
-6. Reading Assignment: [Class-201-06](https://dtuskippy.github.io/reading-notes/class-201-06)
-7. Reading Assignment: [Class-201-07](https://dtuskippy.github.io/reading-notes/class-201-07)
-8. Reading Assignment: [Class-201-08](https://dtuskippy.github.io/reading-notes/class-201-08)
-9. Reading Assignment: [Class-201-09](https://dtuskippy.github.io/reading-notes/class-201-09)
-10. Reading Assignment: [Class-201-10](https://dtuskippy.github.io/reading-notes/class-201-10)
-11. Reading Assignment: [Class-201-11](https://dtuskippy.github.io/reading-notes/class-201-11)
-12. Reading Assignment: [Class-201-12](https://dtuskippy.github.io/reading-notes/class-201-12)
-13. Reading Assignment: [Class-201-13](https://dtuskippy.github.io/reading-notes/class-201-13)
-14. Reading Assignment: [Class-201-14a](https://dtuskippy.github.io/reading-notes/class-201-14a)
-15. Reading Assignment: [Class-201-14b](https://dtuskippy.github.io/reading-notes/class-201-14b)
+1. Reading Assignment: [Class-201-01](https://dtuskippy.github.io/reading-notes/201/class-01)
+2. Reading Assignment: [Class-201-02](https://dtuskippy.github.io/reading-notes/201/class-02)
+3. Reading Assignment; [Class-201-03](https://dtuskippy.github.io/reading-notes/201/class-03)
+4. Reading Assignment: [Class-201-04](https://dtuskippy.github.io/reading-notes/201/class-04)
+5. Reading Assignment: [Class-201-05](https://dtuskippy.github.io/reading-notes/201/class-05)
+6. Reading Assignment: [Class-201-06](https://dtuskippy.github.io/reading-notes/201/class-06)
+7. Reading Assignment: [Class-201-07](https://dtuskippy.github.io/reading-notes/201/class-07)
+8. Reading Assignment: [Class-201-08](https://dtuskippy.github.io/reading-notes/201/class-08)
+9. Reading Assignment: [Class-201-09](https://dtuskippy.github.io/reading-notes/201/class-09)
+10. Reading Assignment: [Class-201-10](https://dtuskippy.github.io/reading-notes/201/class-10)
+11. Reading Assignment: [Class-201-11](https://dtuskippy.github.io/reading-notes/201/class-11)
+12. Reading Assignment: [Class-201-12](https://dtuskippy.github.io/reading-notes/201/class-12)
+13. Reading Assignment: [Class-201-13](https://dtuskippy.github.io/reading-notes/201/class-13)
+14. Reading Assignment: [Class-201-14a](https://dtuskippy.github.io/reading-notes/201/class-14a)
+15. Reading Assignment: [Class-201-14b](https://dtuskippy.github.io/reading-notes/201/class-14b)
 
 # Code 301 Reading Notes
 1. Reading Assignment: [Class-301-01](https://dtuskippy.github.io/reading-notes/class-301-01)
