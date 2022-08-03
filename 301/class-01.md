@@ -19,11 +19,12 @@
 ### What is Props and How to Use it in React
 
 1. What is “props” short for?
-    * 
+    * “Props” stands for properties.
 2. How are props used in React?
-    * 
+    * A special keyword that is used for passing data from one component to another.
 3. What is the flow of props?
-    * 
+    * Uni-directional flow -- one way from parent to child.
+        * Also, props are read-only, which means that data coming from the parent should not be changed by child components.
 
 
 ## Things I want to know more about
