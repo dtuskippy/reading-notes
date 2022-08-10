@@ -1,4 +1,4 @@
-g# Code 102 Reading Notes
+# Code 102 Reading Notes
 1. Read-01: [Learning Markdown](https://dtuskippy.github.io/reading-notes/read-01-learning-markdown)
 2. Read-02: [The Coder's Computer](https://dtuskippy.github.io/reading-notes/read-02-the-coders-computer)
 3. Read-03: [Revisions and the Cloud](https://dtuskippy.github.io/reading-notes/read-03-revisions-and-the-cloud)
