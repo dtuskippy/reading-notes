@@ -1,4 +1,4 @@
-## Class-14a Reading Notes  
+## Class-1 Reading Notes  
 <p>The topic of component-based architecture relates directly to beginning to work with React.</p>
 
 ### Component-Based Architecture
