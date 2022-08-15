@@ -13,9 +13,9 @@
 ### The Conditional (Ternary) Operator Explained
 
 1. Why would we use a ternary operator?
-    * 
+    * Shortens conditional code blocks.
 2. Rewrite the following statement using a ternary statement:
-    * 
+    * x === y ? console.log(true) : console.log(false)
 
 ## Things I want to know more about
 
