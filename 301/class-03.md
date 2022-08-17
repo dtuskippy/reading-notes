@@ -22,22 +22,22 @@
     * Combining arrays.
     * Combining objects.
 3. Give an example of using the spread operator to combine two arrays.
-    * So you have one array called nums that is assigned [1,3,5], and you create a second array called numsX that is assigned [7,9,11] and create a new array called numsCombo that is assigned [...nums, ...numX], numsCombo will have following elements: [1,3,5,7,9,11]
+    * So you have one array called nums that is assigned [1,3,5], and you create a second array called numsX that is assigned [7,9,11], and the create a new array called numsCombo that is assigned [...nums, ...numX] -- numsCombo will wind up being assigned the following elements: [1,3,5,7,9,11]
 4. Give an example of using the spread operator to add a new item to an array.
-    * If you had nums that is assigned [1,3,5], you can create a new array called numY assigned [7...nums], now numsY will be assigned [7,1,3,5]
+    * If you had an array called nums that is assigned [1,3,5], you can create a new array called numY that is assigned [7...nums] - numsY will wind up being assigned the following elements: [7,1,3,5].
 5. Give an example of using the spread operator to combine two objects into one.
-    * If you start with Obj1 = {car: 'Buick'}, Obj2 = {bulb: 'Tulip'}, and assign Obj3 the following: {...Obj1,...Obj2}, Obj3 is assigned {car: 'Buick', bulb: 'Tulip'}
+    * If you start with Obj1 = {car: 'Buick'} and Obj2 = {bulb: 'Tulip'}, and then assign Obj3 the following: {...Obj1,...Obj2} -- Obj3 will wind up being assigned the following properties: {car: 'Buick', bulb: 'Tulip'}.
 
 ### How to Pass Functions Between Components
 
 1. In the video, what is the first step that the developer does to pass functions between components?
     * Creates a function wherever it is that the state is.
 2. In your own words, what does the increment function do?
-    * Passed in an array of objects of people through a map function, determines which specific person is being called, and then updates the state of the count attributed to that person.
+    * After being passed in an array of objects of people through a map function, determines which specific person is being called, and then updates the state of the count attributed to that person.
 3. How can you pass a method from a parent component into a child component?
     * You can pass it just as you would any other prop.
 4. How does the child component invoke a method that was passed to it from a parent component?
-    * In this case child called method via this.props.increment(this.props.name).
+    * In this case the child called the method via this.props.increment(this.props.name).
 
 ## Things I want to know more about
 
