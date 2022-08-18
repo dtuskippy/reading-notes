@@ -1,12 +1,12 @@
 ## Class-5 Reading Notes  
-<p>The React Docs topic seems super relevant and deals with the subjectivity requires to actually architect (for lack of a better term) a React app, where hard decisions are required about fuzzy decisions about when to make break out a component into sub-components and where to store state.  The topic of component-based architecture relates directly to beginning to work with React.  Higher-order functions are of course relevant, as they describe key concepts in JS.</p>
+<p>The React Docs topic seems super relevant and deals with the subjectivity required to actually architect (for lack of a better term) a React app, where hard decisions are required about fuzzy situations about when to make break out a component into sub-components and where to store state. Higher-order functions are of course relevant, as they describe key concepts in JS.</p>
 
 ### React Docs - Thinking in React
 
 1. What is the single responsibility principle and how does it apply to components?
     * When deciding on what is a component and what will not be a component (effectively the process of how to structure/categorize data/data processing), the single responsibility principle is a rule-of-thumb that states that a component should ideally only do one thing.
 2. What does it mean to build a ‘static’ version of your application?
-    * Conceptually it's a 'first draft' approach, where you keep things simple by eliminating interactivity and any use of state, and sticks to building the data model and rendering the UI.
+    * Conceptually it's a 'first draft' approach, where you keep things simple by eliminating interactivity and any use of state, and stick to building the data model and rendering the UI.
 3. Once you have a static application, what do you need to add?
     * Now you move to adding interactivity to your UI with a minimal amount of state.
 4. What are the three questions you can ask to determine if something is state?
@@ -31,4 +31,4 @@
 
 ## Things I want to know more about
 
-1. Specific to 'Thinking in React', I am curious about how often change occur to React architecture in the world, especially for a fast growing company, which may not only be adding whole new product categories with different requirements, but even a new business model, where, e.g. a product company moves to subscription -- I'm curious how 'disruptive' the disruptive company is to itself in terms of web app architecture.
+1. Specific to 'Thinking in React', I am curious about how often significant changes occur to React architecture in the real world, especially for a fast growing company, which may not only be adding whole new product categories with different requirements, but even a new business model, where, e.g. a product company moves to subscription -- basically, I'm curious how 'disruptive' the disruptive company is to itself in terms of web app architecture.
