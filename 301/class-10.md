@@ -4,15 +4,21 @@
 ### Understanding the JavaScript Call Stack
 
 1. What is a ‘call’?
-    * 
+    * Function invocation, i.e. code that invocates the function to execute the code in its code block.
 2. How many ‘calls’ can happen at once?
-    * 
+    * One.
 3. What does LIFO mean?
-    * 
+    * When we say that the call stack operates by the data structure principle of Last In, First Out, it means that the last function that gets pushed into the stack is the first to be popped out, when the function returns.
 4. Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
-    * 
+    ```
+    function add(a, b) {return a + b};
+    function average(a, b) {return add(a, b) / 2;}
+    let x = average(10, 20); // returns 15
+    ```
+    ![Call Stack](images/call-stack.png)
+
 5. What causes a Stack Overflow?
-    * 
+    * A stack overflow occurs when there is a recursive function (a function that calls itself) without an exit point. The browser (hosting environment) has a maximum stack call that it can accomodate before throwing a stack error.
 
 ### JavaScript error messages
 1. What is a ‘reference error’?
