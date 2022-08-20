@@ -1,5 +1,5 @@
 ## Class-5 Reading Notes  
-<p>The React Docs topic seems super relevant and deals with the subjectivity required to actually architect (for lack of a better term) a React app, where hard decisions are required about fuzzy situations about when to make break out a component into sub-components and where to store state. Higher-order functions are of course relevant, as they describe key concepts in JS.</p>
+<p>Debugging is clearly always a relevant topic for any developer, especially me!  The JS call stack is extremely important to understand in terms of learning to structure the JS code base properly.</p>
 
 ### Understanding the JavaScript Call Stack
 
@@ -21,19 +21,20 @@
     * A stack overflow occurs when there is a recursive function (a function that calls itself) without an exit point. The browser (hosting environment) has a maximum stack call that it can accomodate before throwing a stack error.
 
 ### JavaScript error messages
+
 1. What is a ‘reference error’?
-    * 
+    * When a variable is used that is not defined yet.
 2. What is a ‘syntax error’?
-    * 
+    * Like it says, improper syntax being used, e.g. leaving out the second curly brace for a function -- can be fixed by adding the second curly brace.
 3. What is a ‘range error’?
-    * 
-4. What is a ‘tyep error’?
-    * 
+    * Occurs when manipulating an object with some kind of length and you give it an invalid length (e.g. an array).
+4. What is a ‘type error’?
+    * E.g. attempt to access a property of an object that has not been defined yet.
 5. What is a breakpoint?
-    * 
+    * When using a debugger tool (Google dev tools, VS Code, etc.), the breakpoint literally allows you run your code line-by-line as it executes, and the breakpoint allows you to stop the code running at any point to inspect the code.
 6. What does the word ‘debugger’ do in your code?
-    * 
+    * The breakpoint can also be achieved by putting a debugger statement in your code in the line you want to break.
 
 ## Things I want to know more about
 
-1. Specific to 'Thinking in React', I am curious about how often significant changes occur to React architecture in the real world, especially for a fast growing company, which may not only be adding whole new product categories with different requirements, but even a new business model, where, e.g. a product company moves to subscription -- basically, I'm curious how 'disruptive' the disruptive company is to itself in terms of web app architecture.
+1. I still have not had a chance to use the VS Code debugger, and that is something I need to find the time to work on.
