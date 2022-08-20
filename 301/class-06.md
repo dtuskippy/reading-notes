@@ -1,4 +1,4 @@
-## Class-5 Reading Notes  
+## Class-6 Reading Notes  
 <p>As we enter the back-end world of web apps, clearly Node.js is a key topic to master for full stack JS apps.</p>
 
 ### An Introduction to Node.js on sitepoint.com
@@ -6,7 +6,7 @@
 1. What is node.js?
     * Basically the back-end run-time environment for JS that allows JS to run outside of a browser.
 2. In your own words, what is Chrome’s V8 JavaScript Engine?
-    * A JS engine that in Chrome and Chromium-based browers; compiles JS to native machine code.
+    * A JS engine in Chrome and Chromium-based browers that compiles JS to native machine code.
 3. What does it mean that node is a JavaScript runtime?
     * Runtime is the computing environment your application is running in.
 4. What is npm?
