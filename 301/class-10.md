@@ -1,10 +1,10 @@
-## Class-5 Reading Notes  
+## Class-10 Reading Notes  
 <p>Debugging is clearly always a relevant topic for any developer, especially me!  The JS call stack is extremely important to understand in terms of learning to structure the JS code base properly.</p>
 
 ### Understanding the JavaScript Call Stack
 
 1. What is a ‘call’?
-    * Function invocation, i.e. code that invocates the function to execute the code in its code block.
+    * Function invocation, i.e. code that invokes the function to execute the code in its code block.
 2. How many ‘calls’ can happen at once?
     * One.
 3. What does LIFO mean?
@@ -31,7 +31,7 @@
 4. What is a ‘type error’?
     * E.g. attempt to access a property of an object that has not been defined yet.
 5. What is a breakpoint?
-    * When using a debugger tool (Google dev tools, VS Code, etc.), the breakpoint literally allows you run your code line-by-line as it executes, and the breakpoint allows you to stop the code running at any point to inspect the code.
+    * When using a debugger tool (Google dev tools, VS Code, etc.), the breakpoint literally allows you to stop the code running at any point to inspect the code at a particular line of execution.
 6. What does the word ‘debugger’ do in your code?
     * The breakpoint can also be achieved by putting a debugger statement in your code in the line you want to break.
 
