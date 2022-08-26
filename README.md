@@ -39,8 +39,8 @@
 11. Reading Assignment: [Class-301-11](https://dtuskippy.github.io/reading-notes/301/class-11)
 12. Reading Assignment: [Class-301-12](https://dtuskippy.github.io/reading-notes/301/class-12)
 13. Reading Assignment: [Class-301-13](https://dtuskippy.github.io/reading-notes/301/class-13)
-14. Reading Assignment: [Class-301-14a](https://dtuskippy.github.io/reading-notes/301/class-14a)
-15. Reading Assignment: [Class-301-14b](https://dtuskippy.github.io/reading-notes/301/class-14b)
+14. Reading Assignment: [Class-301-14](https://dtuskippy.github.io/reading-notes/301/class-14)
+15. Reading Assignment: [Class-301-15](https://dtuskippy.github.io/reading-notes/301/class-15)
 
 
 ## Personal Background / Intro
