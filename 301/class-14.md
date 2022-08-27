@@ -4,7 +4,7 @@
 ### Consider the history: That Time When Women Stopped Coding
 
 1. What occurred during the same time as the beginning of the decline of women in computer science?
-    * Roughly in the mid-80s, thhe share of women in computer science started falling at roughly the same moment when personal computers started showing up in U.S. homes in significant numbers.
+    * Roughly in the mid-80s, the share of women in computer science started falling at roughly the same moment when personal computers started showing up in U.S. homes in significant numbers.
     * PCs were marketed as toys for video games primarily to boys / males, and parents were more likely to buy PCs for boys than for girls, resulting in a slant to the PC world being dominated by males.
 2. Why does it matter that males had been playing on computers growing up?
     * Because males grew up with PCs, they became much more tech savvy than their female counterparts, resulting in male-dominated computer science classes / programs; teachers / professors adjusted their entry-level course curriculum / expectations in turn to a more advanced level, and females entering '101'-level courses were left behind, so to speak, at the outset -- i.e. a negative feedback loop had developed.
