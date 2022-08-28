@@ -1,4 +1,4 @@
-## Class-14 Reading Notes  
+## Class-14 Reading Notes
 <p>This is relevant to me personally from a slightly different angle -- I'm based in Europe, and the percentage of women who are startup founders or venture capitalists is incredibly small.</p>
 
 ### Consider the history: That Time When Women Stopped Coding
