@@ -1,4 +1,4 @@
-## Class-14 Reading Notes
+## Class-13 Reading Notes
 <p>This is self-evidently relevant material, as it pertains to how CRUD maps to REST APIs.</p>
 
 ### CRUD Basics
