@@ -30,21 +30,21 @@
 1. Why do we need to pull our MongoDB database string out of our server and put it into our .env?
     * When you deploy, you do not want to share your local host.
 2. What is middleware?
-    * Code that runs when the server gets a request but before it gets passed to the routes. and what we want to do is we want to use Express JSON and this essentially just lets our server accept JSON as a body instead of a ...
+    * Code that runs when the server gets a request but before it gets passed to the routes.
 3. What does app.use(express.json()) do?
     * Allows the server to accept JSON as a body instead of as a POST or GET element, etc.
 4. What does the /:id mean in a route?
     * It means that it is a parameter that can be accessed by typing in request.params.id -- this gives access to whatever is passed in before the first slash.
 5. What is the difference between PUT and PATCH?
-    * PATCH allows you to only update on what the user passes (e.g. a subscriber passing on their name); PUT updates all the information (i.e. all the information about the aforementioned subscriber), instead of just the information that is passed.
+    * PATCH allows you to only update on what the user passes (e.g. a subscriber passing in their name); PUT updates all the information (i.e. all the information about the aforementioned subscriber), instead of just the information that is passed.
 6. How do you make a default value in a schema?
     * E.g. for subscribeDate:
         * default: Date.now
 7. What does a 500 error status code mean?
-    * Error on server, i.e. nothing to do with user or API -- entire fault is on server.
+    * Error on server, i.e. nothing to do with user or API -- entire issue is with server.
 8. What is the difference between a status 200 and a status 201?
-    * 200: a success message that means that the request was received and understood and is being processed. 
-    * 201: a success messaged that indicates that a request was successful and as a result, a resource has been created (e.g. a new page).
+    * 200: a success message that relays that the request was received and understood and is being processed.
+    * 201: a success message that indicates that a request was successful and as a result, a resource has been created (e.g. a new page).
 
 ## Things I want to know more about
 
