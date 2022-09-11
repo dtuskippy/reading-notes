@@ -1,4 +1,4 @@
-# Code 102 Reading Notes
+## Code 102 Reading Notes
 
 1. Read-01: [Learning Markdown](https://dtuskippy.github.io/reading-notes/read-01-learning-markdown)
 2. Read-02: [The Coder's Computer](https://dtuskippy.github.io/reading-notes/read-02-the-coders-computer)
@@ -9,7 +9,7 @@
 7. Read-07: [Programming with JavaScript](https://dtuskippy.github.io/reading-notes/read-07-programming-with-javascript)
 8. Read-08: [Operators and Loops](https://dtuskippy.github.io/reading-notes/read-08-operators-and-loops)
 
-# Code 201 Reading Notes
+## Code 201 Reading Notes
 
 1. Reading Assignment: [Class-201-01](https://dtuskippy.github.io/reading-notes/201/class-01)
 2. Reading Assignment: [Class-201-02](https://dtuskippy.github.io/reading-notes/201/class-02)
@@ -27,7 +27,7 @@
 14. Reading Assignment: [Class-201-14a](https://dtuskippy.github.io/reading-notes/201/class-14a)
 15. Reading Assignment: [Class-201-14b](https://dtuskippy.github.io/reading-notes/201/class-14b)
 
-# Code 301 Reading Notes
+## Code 301 Reading Notes
 
 1. Reading Assignment: [Class-301-01](https://dtuskippy.github.io/reading-notes/301/class-01)
 2. Reading Assignment: [Class-301-02](https://dtuskippy.github.io/reading-notes/301/class-02)
@@ -45,7 +45,7 @@
 14. Reading Assignment: [Class-301-14](https://dtuskippy.github.io/reading-notes/301/class-14)
 15. Reading Assignment: [Class-301-15](https://dtuskippy.github.io/reading-notes/301/class-15)
 
-# Code 401 Reading Notes
+## Code 401 Reading Notes
 
 1. Reading Assignment: [Class-401-01](https://dtuskippy.github.io/reading-notes/401/class-01)
 2. Reading Assignment: [Class-401-02](https://dtuskippy.github.io/reading-notes/401/class-02)
@@ -89,4 +89,3 @@
 * I am a US Army veteran, so I am fortunate to tap into a Veterans program to help me out with Code Fellows
 
 Check out my GitHub Home [here](https://github.com/dtuskippy)
-
