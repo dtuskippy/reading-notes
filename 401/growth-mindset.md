@@ -12,7 +12,7 @@
 3. Further to point #2, I think all of these differ across all sort of relationships, from a variety of dynamics in professional landscape (per #2), to personal (spouse, siblings, parents, children, adult friends and acquaintances, 'old neighborhood friends', etc.)
 4. It is practically impossible to improve in such areas in life, unless you get honest feedback from somebody you truly respect and trust -- and honest feedback from somebody you truly trust and respect is a rare event.
 
-## Emotional Intelligence
+## Bias Assessment
 
 1. I have mainly worked as an American abroad, so there are myriad biases out there in the world across cross cultural teams, incl. Americans of many different stripes.
 2. The only success I have seen is grounded in simple guidelines:

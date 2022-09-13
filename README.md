@@ -47,7 +47,8 @@
 
 ## Code 401 Reading Notes
 
-1. Reading Assignment: [Class-401-01](https://dtuskippy.github.io/reading-notes/401/class-01)
+1. Reading Assignment [Class-401-Prep: Growth Mindset](https://dtuskippy.github.io/reading-notes/401/growth-mindset)
+2. Reading Assignment: [Class-401-01](https://dtuskippy.github.io/reading-notes/401/class-01)
 2. Reading Assignment: [Class-401-02](https://dtuskippy.github.io/reading-notes/401/class-02)
 3. Reading Assignment; [Class-401-03](https://dtuskippy.github.io/reading-notes/401/class-03)
 4. Reading Assignment: [Class-401-04](https://dtuskippy.github.io/reading-notes/401/class-04)
