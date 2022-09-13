@@ -17,5 +17,5 @@
 1. I have mainly worked as an American abroad, so there are myriad biases out there in the world across cross cultural teams, incl. Americans of many different stripes.
 2. The only success I have seen is grounded in simple guidelines:
     * Let people be judged by their character, efforts and results.
-    * Treat people as you would want to be treated
-    * And make efforts to meet with different types of people on a 1:1 basis as much as possible, best if after work -- seeing the real world through their eyes is often pretty enlightening.
+    * Treat people as you would want to be treated.
+    * And make efforts to meet with different types of people on a 1:1 basis as much as possible -- best if after work -- seeing the real world through their eyes is often pretty enlightening.
