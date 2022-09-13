@@ -1,4 +1,4 @@
-## Class-01 Reading Notes
+## Engineering Readings Reading Notes
 <p>The readings are a welcome primer on getting into the mindset of a) finding a paying job, and b) how to succeed once you're on the job.</p>
 
 ### Discussion Questions
