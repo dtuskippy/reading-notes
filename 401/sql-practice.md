@@ -16,19 +16,39 @@
 ## SQL Practice Screen Shots
 
 ### Lesson 1
-![lesson-1](images/lesson-1.png)
+![Lesson 1](images/lesson-1.png)
 
 ### Lesson 2
-![lesson-2](images/lesson-2.png)
+![Lesson 2](images/lesson-2.png)
 
 ### Lesson 3
-![lesson-3](images/lesson-3.png)
+![Lesson 3](images/lesson-3.png)
 
 ### Lesson 4
-![lesson-4](images/lesson-4.png)
+![Lesson 4](images/lesson-4.png)
 
 ### Lesson 5
-![lesson-5](images/lesson-5.png)
+![Lesson 5](images/lesson-5.png)
 
 ### Lesson 6
-![lesson-6](images/lesson-6.png)
+![Lesson 6](images/lesson-6.png)
+
+### Lesson 13
+![Lesson 13](images/lesson-13.png)
+
+### Lesson 14
+![Lesson 14](images/lesson-14.png)
+
+### Lesson 15
+![Lesson 15](images/lesson-15.png)
+
+### Lesson 16
+![Lesson 16](images/lesson-16.png)
+
+### Lesson 17
+![Lesson 17](images/lesson-17.png)
+
+### Lesson 18
+![Lesson 18](images/lesson-18.png)
+
+
