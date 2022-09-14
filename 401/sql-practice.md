@@ -2,15 +2,15 @@
 
 ## SQL Summary
 
-What does SQL stand for?
+1. What does SQL stand for?
     * Structured Query Language.
-What is a relational database?
+2. What is a relational database?
     * A relational database is a collection of information that organizes data in predefined relationships where data is stored in one or more tables (or "relations") of columns and rows, making it easy to see and understand how different data structures relate to each other.
-What type of structure does a relational database work with?
+3. What type of structure does a relational database work with?
     * Table(s) with fields (columns) and records (rows).
-What is a ‘schema’?  
+4. What is a ‘schema’?  
     * Schema references the very strict structure of relational databases, i.e. if the fields are *id/customer/city/orders/order value*, every record must follow that exact format without exception, even if there isn't a value for one of the fields.
-What kind of data is a good fit for an SQL database?
+5. What kind of data is a good fit for an SQL database?
     * SQL is the programming language used to interface with relational databases. (Relational databases model data as records in rows and tables with logical links between them) -- very good with transactional data.
 
 ## SQL Practice Screen Shots

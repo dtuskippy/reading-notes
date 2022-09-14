@@ -50,7 +50,7 @@
 1. Reading Assignment [Class-401-Prep: Growth Mindset](https://dtuskippy.github.io/reading-notes/401/growth-mindset)
 2. Reading Assignment [Class-401-Prep: Engineering Readings](https://dtuskippy.github.io/reading-notes/401/engineering-readings)
 3. Reading Assignment [Class-401-Prep: Data Structures and Algorithms](https://dtuskippy.github.io/reading-notes/401/data-structures-and-algorithms)
-4. Reading Assignment [Class-401-Prep: SQL Practice](https://dtuskippy.github.io/sql-practice/401/)
+4. Reading Assignment [Class-401-Prep: SQL Practice](https://dtuskippy.github.io/reading-notes/401/sql-practice)
 4. Reading Assignment: [Class-401-01](https://dtuskippy.github.io/reading-notes/401/class-01)
 5. Reading Assignment: [Class-401-02](https://dtuskippy.github.io/reading-notes/401/class-02)
 6. Reading Assignment; [Class-401-03](https://dtuskippy.github.io/reading-notes/401/class-03)
