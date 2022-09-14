@@ -1,5 +1,5 @@
 ## Data Structures and Algorithms Reading Notes
-<p>The readings are a welcome primer on getting into the mindset of a) finding a paying job, and b) how to succeed once you're on the job.</p>
+<p>A massive read (and watch) about the ultra-important topic of data structures and algoritms.</p>
 
 ### Basic Recursion
 
@@ -64,7 +64,7 @@
     * Basically, algorithmic efficiency.
     * An equation that describes how the runtime scales with respect to some input variables
 * O(1): constant time respect to the size of the input, e.g. the pigeon in her South Africa example carrying a USB stick, i.e. doesn't take longer with more input.
-* O(n): scales linearly with respect to to the size of the input, e.g. the actual internet connection between offices in her South Africa example, i.e. twice the amount of data will roughly take twice the amoun time to deliver.
+* O(n): scales linearly with respect to to the size of the input, e.g. the actual internet connection between offices in her South Africa example, i.e. twice the amount of data will roughly take twice the amount of time to deliver.
 * Example 1: function that checks for an element in the array => O(n), where n is the is the size of the array.
 * Example 2: function that checks for all pairs of values in the array => O(n)^2 where n is the size of the array.
 * Example 3: mow grass in a SQUARE plot of land 
@@ -192,19 +192,11 @@
 
 ### Why Big O
 * Big-O is just the name of the notation used to describe how efficient an algorithm is, and it's whole point is to measure the efficienty of algorithms, because with algorithms, efficiency is literally THE point.
-* For example, the a function returns the first carrot it finds in a list of vegetables:
+* For example, a function returns the first carrot it finds in a list of vegetables:
     * In the worst case, the code might need to check every single vegetable in the list before it finds a carrot. 
     * Another way of saying the same thing is “the time complexity of this function is O(n).” 
     * The letter “O” can just be thought of as shorthand for the rough “order” of magnitude of operations it takes to run the function, while “n” represents the possible number of vegetables passed in each time. 
     * So O(n) is just a math-style way of describing roughly how long (in the worst case) a function will take in terms of the number of inputs passed in.
-* Avoiding mistakes in interviews.
-    * For example, if you know the purpose of a BST is to achieve logarithmic search, then there are certain mistakes about the process of binary search using a BST that you would never make. 
-    * First of all, to say search takes logarithmic time is just a fancy way of saying you cut out half the possible options at each decision point.
-    * In a BST, you start at the root node and go left or right until you find what you’re looking for.
-    * Having the choice only to go left or right (with the left being less and right being greater or equal) are the rules a BST uses that guarantees you cut out half of the possible options at each decision point/node.
-    * If you know that, you’d never think a BST could have nodes with any more than two children or one parent.
-        * You’d also never think both children could be less than the current node or vice versa.
-        * Its structure is inextricably tied to its time complexity, and each helps you remember the other.
 
 ### Discussion Questions
 
@@ -215,4 +207,4 @@
 
 ### Things I want to know more about
 
-1. I really need to understand the answer to the first discussion question above -- this is all for naught if I don't bring a unique proposition to the market.
+1. This is a massive intake of information, that clearly needs a lot more time and experience to digest properly - i.e. things I want to know more about: all of it. 
