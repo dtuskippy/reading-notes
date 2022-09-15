@@ -15,5 +15,8 @@
 ### Level 4
 ![Level 4](images/git-level-4.png)
 
+### Level 5
+![Level 5](images/git-level-5.png)
 
-
+### Level 6
+![Level 6](images/git-level-6.png)
