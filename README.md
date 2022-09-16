@@ -54,7 +54,7 @@
 5. Reading Assignment [Class-401-Prep: The Command Line](https://dtuskippy.github.io/reading-notes/401/command-line)
 6. Practice Assignment [Class-401-Prep: Git Practice](https://dtuskippy.github.io/reading-notes/401/git-practice)
 7. Practice Assignment [Class-401-Prep: Typing Practice](https://dtuskippy.github.io/reading-notes/401/typing-lessons)
-8. Practice Assignment [Class-401-Prep: Code Challenges from 301](https://dtuskippy.github.io/reading-notes/401/coding-challenges-301)
+8. Practice Assignment [Class-401-Prep: Code Challenges from 301](https://dtuskippy.github.io/reading-notes/401/code-challenges-301)
 4. Reading Assignment: [Class-401-01](https://dtuskippy.github.io/reading-notes/401/class-01)
 5. Reading Assignment: [Class-401-02](https://dtuskippy.github.io/reading-notes/401/class-02)
 6. Reading Assignment; [Class-401-03](https://dtuskippy.github.io/reading-notes/401/class-03)
