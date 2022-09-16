@@ -53,6 +53,7 @@
 4. Reading Assignment [Class-401-Prep: SQL Practice](https://dtuskippy.github.io/reading-notes/401/sql-practice)
 5. Reading Assignment [Class-401-Prep: The Command Line](https://dtuskippy.github.io/reading-notes/401/command-line)
 6. Reading Assignment [Class-401-Prep: Git Practice](https://dtuskippy.github.io/reading-notes/401/git-practice)
+7. Reading Assignment [Class-401-Prep: Typing Practice](https://dtuskippy.github.io/reading-notes/401/typing-lessons)
 4. Reading Assignment: [Class-401-01](https://dtuskippy.github.io/reading-notes/401/class-01)
 5. Reading Assignment: [Class-401-02](https://dtuskippy.github.io/reading-notes/401/class-02)
 6. Reading Assignment; [Class-401-03](https://dtuskippy.github.io/reading-notes/401/class-03)
