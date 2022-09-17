@@ -1,7 +1,9 @@
-## Class-01 Reading Notes
+# Class-01 Reading Notes
+
 <p>As we enter the back-end world of web apps, clearly Node.js is a key topic to master for full stack JS apps.</p>
 
-### An Introduction to Node.js on sitepoint.com
+
+## An Introduction to Node.js on sitepoint.com
 
 1. What is node.js?
     * Basically the back-end run-time environment for JS that allows JS to run outside of a browser.
@@ -20,6 +22,6 @@
 8. What is node used for?
     * Biggest use case is running JS on the server.
 
-### Things I want to know more about
+## Things I want to know more about
 
 1. I would like to dig more into understanding the guts of Chrome's V8 JS Engine.
