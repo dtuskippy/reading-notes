@@ -3,7 +3,7 @@
 <p>As we enter the back-end world of web apps, clearly Node.js is a key topic to master for full stack JS apps.</p>
 
 
-## An Introduction to Node.js on sitepoint.com
+## [An Introduction to Node.js on sitepoint.com](https://www.sitepoint.com/an-introduction-to-node-js/)
 
 1. What is node.js?
     * Basically the back-end run-time environment for JS that allows JS to run outside of a browser.
