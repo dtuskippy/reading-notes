@@ -1,8 +1,8 @@
 # Class-04 Reading Notes
 
-I have some familiarity with the differences between sql and no sql from my business background, but look forward to digging deeper.
+I have some familiarity with the differences between sql and no sql from my business background and experience in 301, but look forward to digging deeper.
 
-## nosql vs sql
+## [nosql vs sql](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
 
 1. What type of database is the best fit for the complex query intensive environment?
     * SQL databases are a good fit for a complex query intensive environment whereas NoSQL databases are not a good fit for complex queries.
@@ -12,10 +12,10 @@ I have some familiarity with the differences between sql and no sql from my busi
 3. Describe the differences in scalability between a SQl and NoSQL database as though you were speaking to a non-technical friend.
     * SQL is vertically scalable, i.e. you must increase the capacity of the actual server the software is running on, whereas NoSQL is horizontally scalable, meaning you can more easily spread the software (shard) across many different servers -- the fact that vertically scalable is clearly more limited than horizontally scalable, NoSQL is the more scalable solution overall.
 
-## sql modeling techniques
+## [sql modeling techniques](https://www.essentialsql.com/get-ready-to-learn-sql-7-simplified-data-modeling/)
 
 1. Among data tables, what is a one-to-many relationship and how do we “relate” them?
-    * E.g. one-to-many would be department with many employees attached to that department.  
+    * E.g. one-to-many would be a department with many employees attached to that department.  
     * A single record from one table can be linked to zero or more rows in another table.
 2. Prior to designing your relational database, it might be useful to ___ a ___ of the database tables and their relationships.
     * Create a diagram.
@@ -23,7 +23,7 @@ I have some familiarity with the differences between sql and no sql from my busi
     * Primary keys uniquely identify each row in a table.  (A table typically has one primary key, but can have more.  When the key has more than one column, it is called a compound key).
     * Foreign key is a column or set of columns which match a primary key in another table.
 
-## nosql vs sql (video)
+## [nosql vs sql (video)](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
 
 1. How do we treat keywords and parameters differently in SQL syntax?
     * Parameters are used to exchange data between stored procedures and functions and the application or tool that called the stored procedure or function.
@@ -34,7 +34,7 @@ I have some familiarity with the differences between sql and no sql from my busi
 3. Explain the difference between one-to-one, one-to-many, and many-to-many relationships to a non-technical recruiter.
     * In a one-to-one relationship, one record of the first table will be linked to zero or one record of another table. E.g. each employee in the Employee table will have a corresponding row in EmployeeDetails table that stores the current passport details for that particular employee.
     * In a one-to-many relationship, e.g a sales department has 1K employees, so the single sales department ID# has a relationship with 1K employee ID# records in the database.
-    * In a many-to-many relationship, e.g. the company has thousands of software developers with associated employee ID# with approximately 80% of the developers matching up to a *skills ID#* record for SQL.
+    * In a many-to-many relationship, e.g. every employee in can have one or many skills in the skills table; similarly, a skill in the skill description table can be linked to many employees.
 
 ## Things I want to know more about
 
