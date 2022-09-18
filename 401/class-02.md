@@ -27,7 +27,7 @@ Node.js and Express are supposedly a review, but I still learned a lot reading s
 ## [What is TDD?](https://www.agilealliance.org/glossary/tdd/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'tdd))~searchTerm~'~sort~false~sortDirection~'asc~page~1))
 
 1. Explain why tests are important. Please explain as though I were your non technical elder.
-    * Testing is important the same way testing an airplane or any manufactured prodcuct is important -- the final product is much less likely to fail if it has been tested throughout and following the design and build process.
+    * Testing is important the same way testing an airplane or any manufactured prodcuct is important -- the final product is much less likely to fail if it has been tested throughout the design and build process.
 2. What are three expected benefits of testing:
     * Reduction in defect rates.
     * Greater upfront overhead in TDD is more than offset by a reduction in fixing code in projects' final phases.
@@ -52,7 +52,7 @@ Node.js and Express are supposedly a review, but I still learned a lot reading s
     * Reduce merge conflicts.
 2. What is the difference between Continuous Delivery and Continuous Deployment?
     * Continuous Delivery: allows you to develop to release at any time.
-    * Continuous Deployment: extension of continuous delivery;  allows you to deploy new feature immediately.
+    * Continuous Deployment: extension of continuous delivery;  allows you to deploy new features immediately.
 3. Explain how GitHub fits into this process assuming the listener comes from a non-technical background.
     * GitHub serves as a clearing house that keeps track of changes in your code base, and also communicates with other systems about those changes with webhooks and APIs.
 
