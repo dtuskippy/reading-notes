@@ -29,7 +29,7 @@ Express Router is new material re. the backend for me.
 
 1. What is an Express Router?
     * Router is like a mini-Express application. It doesn’t bring in views or settings but provides us with the routing APIs like .use, .get, .param, and route.
-2. By what mean do we initialize express.Router() in an express server?
+2. By what means do we initialize express.Router() in an express server?
     * // get an instance of router: let router = express.Router();
 3. What do we use route middleware for?
     * Route middleware in Express is a way to do something before a request is processed.
