@@ -27,13 +27,13 @@ It's pretty self-evident that security is extremely relevant to the design, deve
 ## [wiki - RBAC](https://en.wikipedia.org/wiki/Role-based_access_control)
 
 1. If Authentication is “you are who you say you are,” what is Authorization?
-    * Authorization follows authentication -- once you are identified by subject and role, you are only authorized to do certain activities as defined by the role(s) you have, e.g. an intern is not allowed change credit limits for a customer, whereas a CFO can do do.
+    * Authorization follows authentication -- once you are identified by subject and role, you are only authorized to do certain activities as defined by the role(s) you have, e.g. an intern is not allowed to change credit limits for a customer, whereas a CFO can do so.
 2. Name three primary rules defined for RBAC.
     * Role assignment: A subject can exercise a permission only if the subject has selected or been assigned a role.
     * Role authorization: A subject's active role must be authorized for the subject. With rule 1 above, this rule ensures that users can take on only roles for which they are authorized.
     * Permission authorization: A subject can exercise a permission only if the permission is authorized for the subject's active role. With rules 1 and 2, this rule ensures that users can exercise only permissions for which they are authorized.
 3. Describe RBAC to a non-technical friend.
-    * When I was a child, I was not allowed to go into my parents' bedroom, but my parents were certainly allowed to go into my bedroom, and now that I am a parent, similar roles apply in my house -- when I was young, I had a different role in the family than I do now, and consequently have different permissions in the family.  This is the essence of RBAC -- assigning roles (e.g. parent, child, CFO, accountant) to subjects (e.g. myself, my actual children and parents) and permissions (e.g. entering parents' bedroom, changing credit lines for customer accounts) to roles.
+    * When I was a child, I was not allowed to go into my parents' bedroom, but my parents were certainly allowed to go into my bedroom, and now that I am a parent, similar roles apply in my house -- when I was young, I had a different role in the family than I do now, and consequently have different permissions in the family.  This is the essence of RBAC -- assigning roles (e.g. parent, child, CFO, accountant) to subjects (e.g. myself, my actual children and parents, individual employees) and permissions (e.g. entering parents' bedroom, changing credit lines for customer accounts) to roles.
 
 ## [RBAC tutorial](https://www.youtube.com/watch?v=C4NP8Eon3cA)
 
@@ -44,7 +44,7 @@ It's pretty self-evident that security is extremely relevant to the design, deve
 3. Explain how RBAC might benefit a business.
     * Policy need not be updated when a certain person with a role leaves the organization.
     * New employee should be able to activate the desired role (easy on-boarding, audit trail, general easier management)
-    * Damage containment via concept of *least privilege*
+    * Damage containment via concept of *least privilege*.
       * Basically, that you should always provide the smallest amount of access rights required for the job, e.g. a user in one role has access only to a subset of the files, i.e. an intern (or bad actor who gains intern's access to system) is not capable of taking down the system.
     * SELinux (Security-Enhanced Linux) supports RBAC, i.e. widely available, relatively inexpensive to implement.
 

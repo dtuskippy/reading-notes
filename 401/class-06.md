@@ -19,7 +19,7 @@ It's pretty self-evident that security is extremely relevant to the design, deve
         * [Key stretching](https://en.wikipedia.org/wiki/Key_stretching) techniques are used to make a possibly weak key, typically a password or passphrase, more secure against a brute-force attack by increasing the resources (time and possibly space) it takes to test each possible key.
     * BCrypt is an adaptive hash function based on the Blowfish symmetric block cipher cryptographic algorithm and introduces a work factor (also known as security factor), which allows you to determine how expensive the hash function will be.
 3. Why might you use something like Bcrypt?
-    * Bycrpt has a work factor value that determines how slow the hash function will be, i.e. a different work factor will generate different hash values in different time spans, which makes it extremely resistant to brute force attacks. W
+    * Bycrpt has a work factor value that determines how slow the hash function will be, i.e. a different work factor will generate different hash values in different time spans, which makes it extremely resistant to brute force attacks. 
     * When computers become faster next year the work factor can be increased to balance it out i.e. to make the attack slower.
 
 ## [Basic Auth](https://en.wikipedia.org/wiki/Basic_access_authentication)
