@@ -8,7 +8,7 @@
 1. What is node.js?
     * Basically the back-end run-time environment for JS that allows JS to run outside of a browser.
 2. In your own words, what is Chrome’s V8 JavaScript Engine?
-    * A JS engine in Chrome and Chromium-based browers that compiles JS to native machine code.
+    * A JS engine in Chrome and Chromium-based browsers that compiles JS to native machine code.
 3. What does it mean that node is a JavaScript runtime?
     * Runtime is the computing environment your application is running in.
 4. What is npm?
