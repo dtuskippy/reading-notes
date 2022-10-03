@@ -1,6 +1,6 @@
 # Class-12 Reading Notes
 
-It's pretty self-evident that security is extremely relevant to the design, development and deployment of web apps.
+It's a topic that is very relevant to launching a proper web app. 
 
 ## [Web Sockets](https://en.wikipedia.org/wiki/WebSocket)
 
@@ -103,4 +103,4 @@ It's pretty self-evident that security is extremely relevant to the design, deve
 
 ## Things I want to know more about
 
-1. Web security is a pretty complex realm, and would be good to learn how to navigate that world and understand what best practices are.
+1. I would like to dig in deeper on some of the documentation for Socket.io. 
