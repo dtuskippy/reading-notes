@@ -103,4 +103,4 @@ It's a topic that is very relevant to launching a proper web app.
 
 ## Things I want to know more about
 
-1. I would like to dig in deeper on some of the documentation for Socket.io. 
+1. I would like to dig in deeper on some of the documentation for Socket.io.
