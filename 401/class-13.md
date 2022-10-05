@@ -5,7 +5,7 @@ It's a topic that is very relevant to launching a proper web app.
 ## [Socket.io Chat Example](https://socket.io/get-started/chat/)
 
 1. Explain to a non-technical recruiter what the Chat Example (above) does.
-    * A user can write a message from it's client device (laptop, phone, whatever) and send it to a server (most likely in the cloud), and then server will then 'forward' that message to whomever the message was addressed to -- can to a single addressee, a group, a full-on broadcast to an entire domain / platform, i.e. the server serves as a communications clearing house.
+    * A user can write a message from it's client device (laptop, phone, whatever) and send it to a server (most likely in the cloud), and then the server will then 'forward' that message to whomever the message was addressed to -- can send to a single addressee, a group, a full-on broadcast to an entire domain / platform, i.e. the server serves as a communications clearing house.
 2. What proof of life are we getting on the backend from the above app?
     * Running node index.js on the CLI and hitting the server via the browser on port 3000.
 3. Socket.IO gives us the io.emit() method to send an event to everyone. What flag would you use if you want to send a message to everyone except for a certain emitting socket?
@@ -44,7 +44,7 @@ It's a topic that is very relevant to launching a proper web app.
     });
     ```
 3. How do you leave a room?
-    * To leave a channel you call leave in the same fashion as join.
+    * To leave a channel you call *leave* in the same fashion as *join*.
 
 ## [Namespaces](https://socket.io/docs/v4/namespaces/)
 
