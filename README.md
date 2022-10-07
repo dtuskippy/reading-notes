@@ -66,7 +66,10 @@
 17. Reading Assignment: [Class-401-11](https://dtuskippy.github.io/reading-notes/401/class-11)
 18. Reading Assignment: [Class-401-12](https://dtuskippy.github.io/reading-notes/401/class-12)
 19. Reading Assignment: [Class-401-13](https://dtuskippy.github.io/reading-notes/401/class-13)
-20. Reading Assignment: [Class-401-14](https://dtuskippy.github.io/reading-notes/401/class-14)
+20. Reading Assignment: [Class-401-16](https://dtuskippy.github.io/reading-notes/401/class-16)
+21. Reading Assignment: [Class-401-17](https://dtuskippy.github.io/reading-notes/401/class-17)
+22. Reading Assignment: [Class-401-18](https://dtuskippy.github.io/reading-notes/401/class-18)
+23. Reading Assignment: [Class-401-19](https://dtuskippy.github.io/reading-notes/401/class-19)
 
 ## Personal Background / Intro
 
