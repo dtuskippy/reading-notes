@@ -60,7 +60,7 @@ It's a topic that is very relevant to this week's course work, but also very pra
     * As of today, the majority of web traffic goes through through CDNs, including traffic from major sites like Facebook, Netflix, and Amazon.
 3. What are the benefits of employing a CDN?
     * Speed: increased speed for both website load times, and content delivery (most obviously, video).
-    * Security: specifically reducing the likelihood of falling victim to and improve defenses against Distributed Denial of Service attacks (DDoS).comm
+    * Security: specifically reducing the likelihood of falling victim to and improve defenses against Distributed Denial of Service attacks (DDoS).
 
 ## Things I want to know more about
 
