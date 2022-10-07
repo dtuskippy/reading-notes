@@ -24,21 +24,21 @@ It's a topic that is very relevant to this week's course work, but also very pra
 ## [AWS Lambda Basics](https://www.serverless.com/aws-lambda)
 
 1. What is AWS Lambda?
-    * AWS Lambda is a serverless computing service provided by Amazon Web Services (AWS). 
+    * AWS Lambda is a serverless computing service provided by Amazon Web Services (AWS).
     * Users of AWS Lambda create functions, self-contained applications written in one of the supported languages and runtimes, and upload them to AWS Lambda, which executes those functions in an efficient and flexible manner.
 2. Name some use cases for AWS Lambdas.
     * Due to Lambda’s architecture, it can deliver great benefits over traditional cloud computing setups for applications where:
       * Individual tasks run for a short time.
       * Each task is generally self-contained.
       * There is a large difference between the lowest and highest levels in the workload of the application.
-    * Scalable APIs. 
-      * When building APIs using AWS Lambda, one execution of a Lambda function can serve a single HTTP request. 
-      * Different parts of the API can be routed to different Lambda functions via Amazon API Gateway. 
-      * AWS Lambda automatically scales individual functions according to the demand for them, so different parts of your API can scale differently according to current usage levels. 
+    * Scalable APIs.
+      * When building APIs using AWS Lambda, one execution of a Lambda function can serve a single HTTP request.
+      * Different parts of the API can be routed to different Lambda functions via Amazon API Gateway.
+      * AWS Lambda automatically scales individual functions according to the demand for them, so different parts of your API can scale differently according to current usage levels.
       * This allows for cost-effective and flexible API setups.
-‍    * Data processing. 
-      * Lambda functions are optimized for event-based data processing. 
-      * It is easy to integrate AWS Lambda with datasources like Amazon DynamoDB and trigger a Lambda function for specific kinds of data events. 
+    * Data processing.‍
+      * Lambda functions are optimized for event-based data processing.
+      * It is easy to integrate AWS Lambda with datasources like Amazon DynamoDB and trigger a Lambda function for specific kinds of data events.
       * For example, you could employ Lambda to do some work every time an item in DynamoDB is created or updated, thus making it a good fit for things like notifications, counters and analytics.
 3. Describe “serverless” to a non-technical friend.
     * The concept of “serverless” computing refers to not needing to maintain your own servers to run these functions.
@@ -59,8 +59,8 @@ It's a topic that is very relevant to this week's course work, but also very pra
     * In simpler terms, for example, instead of a user in London trying to access a server in LA, which can cause slower Internet speeds, the user would be redirected through a CDN that is geographically closest to them (London, Paris, Stockholm, etc).
     * As of today, the majority of web traffic goes through through CDNs, including traffic from major sites like Facebook, Netflix, and Amazon.
 3. What are the benefits of employing a CDN?
-    * Speed: increased speed for both website load times, and content delivery (most obviously, video)
-    * Security: specifically reducing the likelihood of falling victim to and improve defenses against Distributed Denial of Service attacks (DDoS).
+    * Speed: increased speed for both website load times, and content delivery (most obviously, video).
+    * Security: specifically reducing the likelihood of falling victim to and improve defenses against Distributed Denial of Service attacks (DDoS).comm
 
 ## Things I want to know more about
 
