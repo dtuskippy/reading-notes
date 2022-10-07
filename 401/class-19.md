@@ -6,7 +6,7 @@ It's a topic that my team is considering for Lab 14, and a topic certainly relev
 
 1. What is the difference betweeen SQS and SNS?
     * SNS is a distributed publish-subscribe service.
-    * SQS is distributed queuing service.
+    * SQS is a distributed queuing service.
 2. Differences between SQS and SNS in greater detail:
     * Entity Type
        * SQS : Queue (similar to JMS, MSMQ).
@@ -47,7 +47,7 @@ It's a topic that my team is considering for Lab 14, and a topic certainly relev
 
 1. Describe how to use SQS and SNS in a “fanout” pattern.
     * A message is delivered to multiple subscribers, some of which are other SNS services, and some of which are SQS services -- example credit card transaction had 3 subscribers:
-      * Lamba function which acts as SNS sending customer notifications; best effor delivery, so potential to lose message before receipt.
+      * Lamba function which acts as SNS sending customer notifications; best effort delivery, so potential to lose message before receipt.
       * Transaction analytics queue, e.g. dashboard to poll information at later time; once poll occurs, message deleted; message gauranteed.
       * Transaction fraud detection queue -- once poll occurs, message deleted; message gauranteed.
 2. Explain how “push notifications” work, using SNS.
