@@ -27,12 +27,12 @@ It's a topic that is very relevant to this week's course work, but also very pra
 ## [AWS API Gateway](https://aws.amazon.com/api-gateway/)
 
 1. What are the some benefits of using Amazon API Gateway?
-    * Efficient API development
-    * Easy monitoring
-    * Performance at any scale
-    * Flexible security controls
-    * Cost savings at scale
-    * RESTful API options
+    * Efficient API development.
+    * Easy monitoring.
+    * Performance at any scale.
+    * Flexible security controls.
+    * Cost savings at scale.
+    * RESTful API options.
 2. What two API types might you choose from?
     * RESTful APIs
       * Build RESTful APIs optimized for serverless workloads and HTTP backends using HTTP APIs. HTTP APIs are the best choice for building APIs that only require API proxy functionality.
@@ -50,7 +50,7 @@ It's a topic that is very relevant to this week's course work, but also very pra
       * a managed experience, so you won't be SSH-ing into servers to upgrade the crypto libraries;
       * a small, simple API allowing for simple key-value access as well as more advanced query patterns.
 2. Under what circumstances would you recommend DynamoDB over MongoDB?
-    * Depends on use case of course, but if you're largely an AWS shop, it may make sense to go with DynamoDB due to tigther integration with other AWS services, and you'll get economies of scale on management side.
+    * Depends on use case of course, but if you're largely an AWS shop, it may make sense to go with DynamoDB due to tigther integration with other AWS services, and you'll get economies of scale on the management side.
 
 ## [AWS DynamoDB](https://aws.amazon.com/dynamodb/)
 
