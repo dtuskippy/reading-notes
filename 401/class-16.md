@@ -22,7 +22,7 @@ It's a topic that is very relevant to this week's course work, but also very pra
     * Under *Compute* on the *AWS Services* page.
 2. Explain the general difference between T2 Micro and XL.
     * T2 instances are a low-cost, general purpose instance type that provides a baseline level of CPU performance with the ability to burst above the baseline when needed. 
-    * XL Release is an end-to-end pipeline orchestration tool for Continuous Delivery and DevOps teams. It handles automated tasks, manual tasks, and complex dependencies and release trains. An
+    * XL Release is an end-to-end pipeline orchestration tool for Continuous Delivery and DevOps teams. It handles automated tasks, manual tasks, and complex dependencies and release trains.
 3. Explain a “Compute Cycle” to a non-technical friend.
     * Compute Cycles is a concept for standardization of a unit of cloud computing usage consumption introduced first by Rackspace.
 
