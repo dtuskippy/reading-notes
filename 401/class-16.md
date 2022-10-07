@@ -1,7 +1,6 @@
 # Class-16 Reading Notes
 
-It's a topic that is very relevant to launching a proper web app.
-
+It's a topic that is very relevant to this week's course work, but also very practical in the 'real world'.
 
 ## [AWS EC2](https://aws.amazon.com/ec2/)
 
