@@ -5,7 +5,7 @@ It's a topic that is very relevant to this week's course work, but also very pra
 ## [AWS EC2](https://aws.amazon.com/ec2/)
 
 1. What is an EC2 Instance?
-    * An instance is a virtual server in the AWS Cloud. 
+    * An instance is a virtual server in the AWS Cloud.
     * With Amazon EC2, you can set up and configure the operating system and applications that run on your instance. 
     * When you sign up for AWS, you can get started with Amazon EC2 using the AWS Free Tier .
 2. Name 2 use cases for EC2.
@@ -21,13 +21,7 @@ It's a topic that is very relevant to this week's course work, but also very pra
 1. Where can we find EC2 on the AWS Console?
     * Under *Compute* on the *AWS Services* page.
 2. Explain the general difference between T2 Micro and XL.
-    * T2 instances are a low-cost, general purpose instance type that provides a baseline level of CPU performance with the ability to burst above the baseline when needed. 
-    * XL Release is an end-to-end pipeline orchestration tool for Continuous Delivery and DevOps teams. It handles automated tasks, manual tasks, and complex dependencies and release trains.
-3. Explain a “Compute Cycle” to a non-technical friend.
-    * Compute Cycles is a concept for standardization of a unit of cloud computing usage consumption introduced first by Rackspace.
-
-## [Elastic Beanstalk](https://www.youtube.com/watch?v=SrwxAScdyT0)
-
+    * T2 instances are a low-cost, general purpose instance type that provides a baseline level of CPU performance with the ability to burst above ls
 1. What is Elastic Beanstalk?
     * AWS Elastic Beanstalk is an orchestration service offered by Amazon Web Services for deploying applications which orchestrates various AWS services, including EC2, S3, Simple Notification Service (SNS), CloudWatch, autoscaling, and Elastic Load Balancers.
 2. Describe the relationship between EC2 and Elastic Beanstalk.
