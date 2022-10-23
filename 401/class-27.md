@@ -21,7 +21,11 @@ It's a topic that my team is considering for Lab 14, and a topic certainly relev
 ## [hooks api](https://reactjs.org/docs/hooks-overview.html)
 
 1. Name two rules imposed by React Hook usage.
+    * Only call Hooks at the top level. Don’t call Hooks inside loops, conditions, or nested functions.
+    * Only call Hooks from React function components. Don’t call Hooks from regular JavaScript functions. (There is just one other valid place to call Hooks — your own custom Hooks. We’ll learn about them in a moment.)
 2. How would you identify a custom Hook and why might you create one?
+    * If a function’s name starts with ”use” and it calls other Hooks, we say it is a custom Hook. 
+    * You can write custom Hooks that cover a wide range of use cases like form handling, animation, declarative subscriptions, timers, and probably many more we haven’t considered
 
 ## [the state hook](https://reactjs.org/docs/hooks-state.html)
 

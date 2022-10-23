@@ -1,6 +1,6 @@
 # Class-26 Component Based UI
 
-It's a topic that my team is considering for Lab 14, and a topic certainly relevant to Lab 19.  
+The reading for today is primarily a refresher on material covered in 301.
 
 ## [react hello world](https://reactjs.org/docs/hello-world.html)
 
@@ -77,4 +77,4 @@ It's a topic that my team is considering for Lab 14, and a topic certainly relev
 
 ## Things I want to know more about
 
-1. My team is considering this topic for Lab 14, so planning to dig into the docs and dig further on youtube videos.
+1. Despite being primarily a refresher, I need all the refresher I can get with React.
