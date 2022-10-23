@@ -1,6 +1,6 @@
 # Class-28 useEffect() Hook
 
-This is the topic of the week, and a pretty hot topic in React land. 
+This is the topic of the week, and a pretty hot topic in React land.
 
 ## [effects hook](https://reactjs.org/docs/hooks-effect.html)
 
