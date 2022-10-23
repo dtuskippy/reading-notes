@@ -36,4 +36,4 @@ This is the topic of the week, and a pretty hot topic in React land.
 
 ## Things I want to know more about
 
-1. I know we'll learn about Redux soon, so quite curious about to decide on when to use these various hooks, etc..
+1. I know we'll learn about Redux soon, so quite curious about how gto decide on when to use these various hooks, etc.
