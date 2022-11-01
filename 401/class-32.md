@@ -21,7 +21,7 @@ Consume content from (at least) two more of the Awesome React Context links. Aft
   * Effectively gives a comparison showing that Context with hooks is roughly equivalent to Redux in terms of functionality / performance.
 
 * Takeaway 2: [React v16.3.0: New lifecycles and context API by Brian Vaughn (official)](https://reactjs.org/blog/2018/03/29/react-v-16-3.html)
-  * In React v16.3.0, StrictMode is a tool for highlighting potential problems in an application, and helps with, identifying components with unsafe lifecycles, warning about legacy string ref API usage, and detecting unexpected side effects.
+  * In React v16.3.0, StrictMode is a tool for highlighting potential problems in an application, and helps with identifying components with unsafe lifecycles, warning about legacy string ref API usage, and detecting unexpected side effects.
 
 ## Reflection
 
