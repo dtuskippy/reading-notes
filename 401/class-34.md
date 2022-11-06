@@ -5,7 +5,7 @@ This is a relevant topic for pretty much anything in the modern world of web app
 
 ## [Review API Server Build](https://codefellows.github.io/code-401-javascript-guide/curriculum/apps-and-libraries/api-server/)
 
-1. Explain the different between a query string parameter and a path parameter.
+1. Explain the difference between a query string parameter and a path parameter.
     * The path parameter defines the resource location, while the query parameter defines sort, pagination, or filter operations. The user's input (the query) is passed as a variable in the query parameter, while each path parameter must be substituted with an actual value when the client makes an API call.
 2. What would our API URL with a path id parameter be given the following information:
     1. Domain: <http://our-site.com>
