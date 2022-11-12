@@ -4,18 +4,18 @@
 
 [Microsoft and the DoD](https://web.archive.org/web/20200616232735/https://www.businessinsider.com/microsoft-employees-protest-contract-us-army-hololens-2019-2)
 
-    * I remember this story in the news, and doing an eye-roll at the time.
-    * Employee perspective in general: I come from a union family growing up, so I think it's great to have employees speak up, and it's great they made their voices heard.
-    * Company perspective: 
-        * In the tech industry specifically, management has to be extremely sensitive to tech talent, which can walk out the door at any time, i.e. even in cases where management thinks its right on a position employees have an issue, management have to back down due to talent market-driven power imbalance, i.e. employees more in a power position than the company.
-        * In this case, it seems clear that management thought it was dealing with a vocal minority of employees and stood it's ground.
-    * The issue itself -- 'war profiteering':
-        * One person's 'war profiteering' is another person's 'patriotic vendor' (would you rather the Pentagon buys from the Chinese?)
-        * I am not a pacifist -- I think it's self-evident that countries need strong militaries to protect their citizenry -- I would be a proud employee if my company was helping equip Ukraine currently, e.g.
-        * Also, where do 'war profiteering' protests end?  I still remember the Burger King at Bagram Air Base in Afghanistan -- do those same Microsoft employees boycott Burger King, or other 'food vendors' to the US Military, like ConAgra, General Mills, Hershey, Hormel, Mars, Nabisco, Reynolds, Smithfield, Swift and Tyson? I doubt it -- and how is war profiteering any different for weapons producers than for food vendors, or medical supply companies?  Is the producer of medical bandages for wounded troops also evil because they make profits from war?  Not to mention the fact that those employees are fine with Microsoft making 'war profits' off of other products it sells to the military, but draw a magic line with something deemed 'weaponry'...the slippery slope is really quite slippery.
-        * Important to note, this is not a case where Microsoft is secretly selling chemical weapons (i.e. which is illegal) to Russia or Syria, it's a legal contract with the US Military in the wide open.
+* I remember this story in the news, and doing an eye-roll at the time.
+* Employee perspective in general: I come from a union family growing up, so I think it's great to have employees speak up, and it's great they made their voices heard.
+* Company perspective:
+  * In the tech industry specifically, management has to be extremely sensitive to tech talent, which can walk out the door at any time, i.e. even in cases where management thinks its right on a position employees have an issue, management have to back down due to talent market-driven power imbalance, i.e. employees more in a power position than the company.
+  * In this case, it seems clear that management thought it was dealing with a vocal minority of employees and stood it's ground.
+* The issue itself -- 'war profiteering':
+  * One person's 'war profiteering' is another person's 'patriotic vendor' (would you rather the Pentagon buys from the Chinese?)
+  * I am not a pacifist -- I think it's self-evident that countries need strong militaries to protect their citizenry -- I would be a proud employee if my company was helping equip Ukraine currently, e.g.
+  * Also, where do 'war profiteering' protests end?  I still remember the Burger King at Bagram Air Base in Afghanistan -- do those same Microsoft employees boycott Burger King, or other 'food vendors' to the US Military, like ConAgra, General Mills, Hershey, Hormel, Mars, Nabisco, Reynolds, Smithfield, Swift and Tyson? I doubt it -- and how is war profiteering any different for weapons producers than for food vendors, or medical supply companies?  Is the producer of medical bandages for wounded troops also evil because they make profits from war?  Not to mention the fact that those employees are fine with Microsoft making 'war profits' off of other products it sells to the military, but draw a magic line with something deemed 'weaponry'...the slippery slope is really quite slippery.
+  * Important to note, this is not a case where Microsoft is secretly selling chemical weapons (i.e. which is illegal) to Russia or Syria, it's a legal contract with the US Military in the wide open.
 
-## [Ethics in Technology]
+## Ethics in Technology
 
 * These articles are really out-of-date, so I selected something more up-to-date on a related theme.
 

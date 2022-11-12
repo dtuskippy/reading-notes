@@ -84,6 +84,7 @@
 35. Reading Assignment: [Class-401-38](https://dtuskippy.github.io/reading-notes/401/class-38)
 36. Reading Assignment: [Class-401-39](https://dtuskippy.github.io/reading-notes/401/class-39)
 37. Reading Assignment: [Class-401-41](https://dtuskippy.github.io/reading-notes/401/class-41)
+38. Reading Assignment: [Class-401-42](https://dtuskippy.github.io/reading-notes/401/class-42)
 
 
 ## Personal Background / Intro
