@@ -42,4 +42,4 @@ This is the topic of the week, and a pretty hot topic in React land.
 
 ## Things I want to know more about
 
-1. Redux is a complex topic I have barely scratched the surface of, so plenty more to dig into.
+1. React Native is a complex topic I have barely scratched the surface of, so plenty more to dig into.
