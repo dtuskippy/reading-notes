@@ -4,7 +4,7 @@
 
 [Microsoft and the DoD](https://web.archive.org/web/20200616232735/https://www.businessinsider.com/microsoft-employees-protest-contract-us-army-hololens-2019-2)
 
-* I remember this story in the news, and doing an eye-roll at the time.
+* I remember this story in the news at the time.
 * Employee perspective from high level: I come from a union family growing up, so I think it's great to have employees speak up and have their voices heard.
 * Management perspective:
   * In the tech industry specifically, management has to be extremely sensitive to tech talent, which can walk out the door at any time, i.e. even in cases where management thinks it's right on a position that employees are countering, management may have to back down due to the market-driven talent power imbalance, i.e. employees more in a power position than the company.
