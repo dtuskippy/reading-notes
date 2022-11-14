@@ -26,7 +26,7 @@ This is the topic of the week, and a pretty hot topic in React land.
     * You will only need a recent version of Node.js and a phone or emulator.
 2. Expo tries to manage as much of the complexity of building apps as possible, which is why we call it the ____ workflow.
     * “Managed workflow” is when you let Expo handle specifying important properties through a convenient app.json, as well build your app on their servers.
-    * A “bare workflow” is when you’re not solely restricted to the “Expo ecosystem,” and thus are free to do more customization to your app. [Source](https://medium.com/@natesabrown/deciding-between-expo-managed-bare-workflows-1e69af847003)
+    * A “bare workflow” is when you’re not solely restricted to the “Expo ecosystem,” and thus are free to do more customization to your app. [(Source)](https://medium.com/@natesabrown/deciding-between-expo-managed-bare-workflows-1e69af847003)
 3. What is the difference between React Native and Expo?
     * React Native is the library developed by Meta and Expo is a framework/platform to develop React Native apps.
 
